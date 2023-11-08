@@ -14,6 +14,8 @@
 		196DA79D2AFA7CDA0041CD5E /* SugarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA79C2AFA7CDA0041CD5E /* SugarTests.swift */; };
 		196DA7A72AFA7CDB0041CD5E /* SugarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */; };
 		196DA7A92AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */; };
+		196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B62AFB1B7F0041CD5E /* Dessert.swift */; };
+		196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B82AFB1B940041CD5E /* Meal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +46,8 @@
 		196DA7A22AFA7CDB0041CD5E /* SugarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITests.swift; sourceTree = "<group>"; };
 		196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		196DA7B62AFB1B7F0041CD5E /* Dessert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dessert.swift; sourceTree = "<group>"; };
+		196DA7B82AFB1B940041CD5E /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +98,7 @@
 		196DA78A2AFA7CD70041CD5E /* Sugar */ = {
 			isa = PBXGroup;
 			children = (
+				196DA7B52AFB1B6E0041CD5E /* Model */,
 				196DA78B2AFA7CD70041CD5E /* SugarApp.swift */,
 				196DA78D2AFA7CD70041CD5E /* ContentView.swift */,
 				196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */,
@@ -125,6 +130,15 @@
 				196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */,
 			);
 			path = SugarUITests;
+			sourceTree = "<group>";
+		};
+		196DA7B52AFB1B6E0041CD5E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				196DA7B62AFB1B7F0041CD5E /* Dessert.swift */,
+				196DA7B82AFB1B940041CD5E /* Meal.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,7 +271,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */,
 				196DA78E2AFA7CD70041CD5E /* ContentView.swift in Sources */,
+				196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */,
 				196DA78C2AFA7CD70041CD5E /* SugarApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
