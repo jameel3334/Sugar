@@ -25,6 +25,13 @@
 		19A89ADF2AFB25FB00F852DA /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89ADE2AFB25FB00F852DA /* LaunchView.swift */; };
 		19A89AE12AFB262600F852DA /* DessertsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AE02AFB262600F852DA /* DessertsListView.swift */; };
 		19A89AE32AFB265300F852DA /* DetailedItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AE22AFB265300F852DA /* DetailedItemView.swift */; };
+		19A89AE72AFB271800F852DA /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AE62AFB271800F852DA /* ImageView.swift */; };
+		19A89AE92AFB272800F852DA /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AE82AFB272800F852DA /* ListRowView.swift */; };
+		19A89AEC2AFB275400F852DA /* IngredientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AEB2AFB275400F852DA /* IngredientsView.swift */; };
+		19A89AEE2AFB276F00F852DA /* InstructionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AED2AFB276F00F852DA /* InstructionsView.swift */; };
+		19A89AF02AFB279700F852DA /* BodyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AEF2AFB279700F852DA /* BodyTextView.swift */; };
+		19A89AF22AFB27AA00F852DA /* HeaderTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */; };
+		19A89AF42AFB27C900F852DA /* CacheAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +73,13 @@
 		19A89ADE2AFB25FB00F852DA /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
 		19A89AE02AFB262600F852DA /* DessertsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertsListView.swift; sourceTree = "<group>"; };
 		19A89AE22AFB265300F852DA /* DetailedItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedItemView.swift; sourceTree = "<group>"; };
+		19A89AE62AFB271800F852DA /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
+		19A89AE82AFB272800F852DA /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
+		19A89AEB2AFB275400F852DA /* IngredientsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IngredientsView.swift; sourceTree = "<group>"; };
+		19A89AED2AFB276F00F852DA /* InstructionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsView.swift; sourceTree = "<group>"; };
+		19A89AEF2AFB279700F852DA /* BodyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyTextView.swift; sourceTree = "<group>"; };
+		19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderTextView.swift; sourceTree = "<group>"; };
+		19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheAsyncImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -183,6 +197,7 @@
 			isa = PBXGroup;
 			children = (
 				196DA7BD2AFB1C4B0041CD5E /* Constants.swift */,
+				19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -201,11 +216,33 @@
 		19A89ADD2AFB25EB00F852DA /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				19A89ADE2AFB25FB00F852DA /* LaunchView.swift */,
-				19A89AE02AFB262600F852DA /* DessertsListView.swift */,
-				19A89AE22AFB265300F852DA /* DetailedItemView.swift */,
+				19A89AE52AFB26F300F852DA /* CustomViews */,
+				19A89AE42AFB26DB00F852DA /* Screens */,
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		19A89AE42AFB26DB00F852DA /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				19A89AE22AFB265300F852DA /* DetailedItemView.swift */,
+				19A89AE02AFB262600F852DA /* DessertsListView.swift */,
+				19A89ADE2AFB25FB00F852DA /* LaunchView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		19A89AE52AFB26F300F852DA /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				19A89AE62AFB271800F852DA /* ImageView.swift */,
+				19A89AE82AFB272800F852DA /* ListRowView.swift */,
+				19A89AEB2AFB275400F852DA /* IngredientsView.swift */,
+				19A89AEF2AFB279700F852DA /* BodyTextView.swift */,
+				19A89AED2AFB276F00F852DA /* InstructionsView.swift */,
+				19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */,
+			);
+			path = CustomViews;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -339,17 +376,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */,
+				19A89AF42AFB27C900F852DA /* CacheAsyncImage.swift in Sources */,
 				19A89ADF2AFB25FB00F852DA /* LaunchView.swift in Sources */,
+				19A89AE92AFB272800F852DA /* ListRowView.swift in Sources */,
+				19A89AF22AFB27AA00F852DA /* HeaderTextView.swift in Sources */,
 				196DA7C32AFB1EE80041CD5E /* APIServiceProtocol.swift in Sources */,
 				19A89AE32AFB265300F852DA /* DetailedItemView.swift in Sources */,
 				196DA78E2AFA7CD70041CD5E /* DessertsViewModel.swift in Sources */,
 				196DA7C92AFB1F510041CD5E /* APIError.swift in Sources */,
+				19A89AEC2AFB275400F852DA /* IngredientsView.swift in Sources */,
 				196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */,
+				19A89AEE2AFB276F00F852DA /* InstructionsView.swift in Sources */,
 				196DA7C52AFB1F0A0041CD5E /* NetworkManager.swift in Sources */,
+				19A89AF02AFB279700F852DA /* BodyTextView.swift in Sources */,
 				196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */,
 				196DA78C2AFA7CD70041CD5E /* SugarApp.swift in Sources */,
 				19A89AE12AFB262600F852DA /* DessertsListView.swift in Sources */,
 				196DA7C72AFB1F250041CD5E /* APIService.swift in Sources */,
+				19A89AE72AFB271800F852DA /* ImageView.swift in Sources */,
 				196DA7BE2AFB1C4B0041CD5E /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
