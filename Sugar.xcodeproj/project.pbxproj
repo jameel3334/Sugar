@@ -18,6 +18,13 @@
 		196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B82AFB1B940041CD5E /* Meal.swift */; };
 		196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */; };
 		196DA7BE2AFB1C4B0041CD5E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BD2AFB1C4B0041CD5E /* Constants.swift */; };
+		196DA7C32AFB1EE80041CD5E /* APIServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C22AFB1EE80041CD5E /* APIServiceProtocol.swift */; };
+		196DA7C52AFB1F0A0041CD5E /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C42AFB1F0A0041CD5E /* NetworkManager.swift */; };
+		196DA7C72AFB1F250041CD5E /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C62AFB1F250041CD5E /* APIService.swift */; };
+		196DA7C92AFB1F510041CD5E /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C82AFB1F510041CD5E /* APIError.swift */; };
+		19A89ADF2AFB25FB00F852DA /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89ADE2AFB25FB00F852DA /* LaunchView.swift */; };
+		19A89AE12AFB262600F852DA /* DessertsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AE02AFB262600F852DA /* DessertsListView.swift */; };
+		19A89AE32AFB265300F852DA /* DetailedItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AE22AFB265300F852DA /* DetailedItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +59,13 @@
 		196DA7B82AFB1B940041CD5E /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealViewModel.swift; sourceTree = "<group>"; };
 		196DA7BD2AFB1C4B0041CD5E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		196DA7C22AFB1EE80041CD5E /* APIServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServiceProtocol.swift; sourceTree = "<group>"; };
+		196DA7C42AFB1F0A0041CD5E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		196DA7C62AFB1F250041CD5E /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
+		196DA7C82AFB1F510041CD5E /* APIError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
+		19A89ADE2AFB25FB00F852DA /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
+		19A89AE02AFB262600F852DA /* DessertsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertsListView.swift; sourceTree = "<group>"; };
+		19A89AE22AFB265300F852DA /* DetailedItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +97,6 @@
 			isa = PBXGroup;
 			children = (
 				196DA78A2AFA7CD70041CD5E /* Sugar */,
-				196DA7C02AFB1C7D0041CD5E /* Utilities */,
 				196DA79B2AFA7CDA0041CD5E /* SugarTests */,
 				196DA7A52AFA7CDB0041CD5E /* SugarUITests */,
 				196DA7892AFA7CD70041CD5E /* Products */,
@@ -103,9 +116,12 @@
 		196DA78A2AFA7CD70041CD5E /* Sugar */ = {
 			isa = PBXGroup;
 			children = (
+				196DA7C12AFB1ED20041CD5E /* Networking */,
+				196DA7C02AFB1C7D0041CD5E /* Utilities */,
 				196DA7BC2AFB1BF80041CD5E /* App */,
 				196DA7BF2AFB1C660041CD5E /* ViewModels */,
 				196DA7B52AFB1B6E0041CD5E /* Model */,
+				19A89ADD2AFB25EB00F852DA /* Views */,
 			);
 			path = Sugar;
 			sourceTree = "<group>";
@@ -169,6 +185,27 @@
 				196DA7BD2AFB1C4B0041CD5E /* Constants.swift */,
 			);
 			path = Utilities;
+			sourceTree = "<group>";
+		};
+		196DA7C12AFB1ED20041CD5E /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				196DA7C22AFB1EE80041CD5E /* APIServiceProtocol.swift */,
+				196DA7C42AFB1F0A0041CD5E /* NetworkManager.swift */,
+				196DA7C62AFB1F250041CD5E /* APIService.swift */,
+				196DA7C82AFB1F510041CD5E /* APIError.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		19A89ADD2AFB25EB00F852DA /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				19A89ADE2AFB25FB00F852DA /* LaunchView.swift */,
+				19A89AE02AFB262600F852DA /* DessertsListView.swift */,
+				19A89AE22AFB265300F852DA /* DetailedItemView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -302,10 +339,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */,
+				19A89ADF2AFB25FB00F852DA /* LaunchView.swift in Sources */,
+				196DA7C32AFB1EE80041CD5E /* APIServiceProtocol.swift in Sources */,
+				19A89AE32AFB265300F852DA /* DetailedItemView.swift in Sources */,
 				196DA78E2AFA7CD70041CD5E /* DessertsViewModel.swift in Sources */,
+				196DA7C92AFB1F510041CD5E /* APIError.swift in Sources */,
 				196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */,
+				196DA7C52AFB1F0A0041CD5E /* NetworkManager.swift in Sources */,
 				196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */,
 				196DA78C2AFA7CD70041CD5E /* SugarApp.swift in Sources */,
+				19A89AE12AFB262600F852DA /* DessertsListView.swift in Sources */,
+				196DA7C72AFB1F250041CD5E /* APIService.swift in Sources */,
 				196DA7BE2AFB1C4B0041CD5E /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -464,15 +508,14 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Sugar/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Sugar/App/Preview Content\"";
 				DEVELOPMENT_TEAM = Q75836UFYY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -482,7 +525,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -493,15 +536,14 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Sugar/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Sugar/App/Preview Content\"";
 				DEVELOPMENT_TEAM = Q75836UFYY;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -511,7 +553,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
