@@ -11,7 +11,7 @@
 		196DA78E2AFA7CD70041CD5E /* DessertsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA78D2AFA7CD70041CD5E /* DessertsViewModel.swift */; };
 		196DA7902AFA7CDA0041CD5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */; };
 		196DA7932AFA7CDA0041CD5E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196DA7922AFA7CDA0041CD5E /* Preview Assets.xcassets */; };
-		196DA79D2AFA7CDA0041CD5E /* SugarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA79C2AFA7CDA0041CD5E /* SugarTests.swift */; };
+		196DA79D2AFA7CDA0041CD5E /* DessertsUnitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */; };
 		196DA7A72AFA7CDB0041CD5E /* SugarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */; };
 		196DA7A92AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */; };
 		196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B62AFB1B7F0041CD5E /* Dessert.swift */; };
@@ -32,6 +32,7 @@
 		19A89AF02AFB279700F852DA /* BodyTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AEF2AFB279700F852DA /* BodyTextView.swift */; };
 		19A89AF22AFB27AA00F852DA /* HeaderTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */; };
 		19A89AF42AFB27C900F852DA /* CacheAsyncImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */; };
+		19A89AF62AFB281800F852DA /* JSONMapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89AF52AFB281800F852DA /* JSONMapper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +59,7 @@
 		196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		196DA7922AFA7CDA0041CD5E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		196DA79C2AFA7CDA0041CD5E /* SugarTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarTests.swift; sourceTree = "<group>"; };
+		196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertsUnitTest.swift; sourceTree = "<group>"; };
 		196DA7A22AFA7CDB0041CD5E /* SugarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITests.swift; sourceTree = "<group>"; };
 		196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITestsLaunchTests.swift; sourceTree = "<group>"; };
@@ -80,6 +81,10 @@
 		19A89AEF2AFB279700F852DA /* BodyTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyTextView.swift; sourceTree = "<group>"; };
 		19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderTextView.swift; sourceTree = "<group>"; };
 		19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheAsyncImage.swift; sourceTree = "<group>"; };
+		19A89AF52AFB281800F852DA /* JSONMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONMapper.swift; sourceTree = "<group>"; };
+		19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = desserts_invalid_response.json; sourceTree = "<group>"; };
+		19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = desserts_valid_response.json; sourceTree = "<group>"; };
+		19A89AF92AFB291000F852DA /* meal_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = meal_valid_response.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,7 +156,11 @@
 		196DA79B2AFA7CDA0041CD5E /* SugarTests */ = {
 			isa = PBXGroup;
 			children = (
-				196DA79C2AFA7CDA0041CD5E /* SugarTests.swift */,
+				196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */,
+				19A89AF52AFB281800F852DA /* JSONMapper.swift */,
+				19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */,
+				19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */,
+				19A89AF92AFB291000F852DA /* meal_valid_response.json */,
 			);
 			path = SugarTests;
 			sourceTree = "<group>";
@@ -402,7 +411,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				196DA79D2AFA7CDA0041CD5E /* SugarTests.swift in Sources */,
+				19A89AF62AFB281800F852DA /* JSONMapper.swift in Sources */,
+				196DA79D2AFA7CDA0041CD5E /* DessertsUnitTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
