@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		196DA78C2AFA7CD70041CD5E /* SugarApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA78B2AFA7CD70041CD5E /* SugarApp.swift */; };
-		196DA78E2AFA7CD70041CD5E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA78D2AFA7CD70041CD5E /* ContentView.swift */; };
+		196DA78E2AFA7CD70041CD5E /* DessertsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA78D2AFA7CD70041CD5E /* DessertsViewModel.swift */; };
 		196DA7902AFA7CDA0041CD5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */; };
 		196DA7932AFA7CDA0041CD5E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196DA7922AFA7CDA0041CD5E /* Preview Assets.xcassets */; };
 		196DA79D2AFA7CDA0041CD5E /* SugarTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA79C2AFA7CDA0041CD5E /* SugarTests.swift */; };
@@ -16,6 +16,8 @@
 		196DA7A92AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */; };
 		196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B62AFB1B7F0041CD5E /* Dessert.swift */; };
 		196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B82AFB1B940041CD5E /* Meal.swift */; };
+		196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */; };
+		196DA7BE2AFB1C4B0041CD5E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BD2AFB1C4B0041CD5E /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +40,7 @@
 /* Begin PBXFileReference section */
 		196DA7882AFA7CD70041CD5E /* Sugar.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sugar.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		196DA78B2AFA7CD70041CD5E /* SugarApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarApp.swift; sourceTree = "<group>"; };
-		196DA78D2AFA7CD70041CD5E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		196DA78D2AFA7CD70041CD5E /* DessertsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertsViewModel.swift; sourceTree = "<group>"; };
 		196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		196DA7922AFA7CDA0041CD5E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,6 +50,8 @@
 		196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		196DA7B62AFB1B7F0041CD5E /* Dessert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dessert.swift; sourceTree = "<group>"; };
 		196DA7B82AFB1B940041CD5E /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealViewModel.swift; sourceTree = "<group>"; };
+		196DA7BD2AFB1C4B0041CD5E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				196DA78A2AFA7CD70041CD5E /* Sugar */,
+				196DA7C02AFB1C7D0041CD5E /* Utilities */,
 				196DA79B2AFA7CDA0041CD5E /* SugarTests */,
 				196DA7A52AFA7CDB0041CD5E /* SugarUITests */,
 				196DA7892AFA7CD70041CD5E /* Products */,
@@ -98,11 +103,9 @@
 		196DA78A2AFA7CD70041CD5E /* Sugar */ = {
 			isa = PBXGroup;
 			children = (
+				196DA7BC2AFB1BF80041CD5E /* App */,
+				196DA7BF2AFB1C660041CD5E /* ViewModels */,
 				196DA7B52AFB1B6E0041CD5E /* Model */,
-				196DA78B2AFA7CD70041CD5E /* SugarApp.swift */,
-				196DA78D2AFA7CD70041CD5E /* ContentView.swift */,
-				196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */,
-				196DA7912AFA7CDA0041CD5E /* Preview Content */,
 			);
 			path = Sugar;
 			sourceTree = "<group>";
@@ -139,6 +142,33 @@
 				196DA7B82AFB1B940041CD5E /* Meal.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		196DA7BC2AFB1BF80041CD5E /* App */ = {
+			isa = PBXGroup;
+			children = (
+				196DA78B2AFA7CD70041CD5E /* SugarApp.swift */,
+				196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */,
+				196DA7912AFA7CDA0041CD5E /* Preview Content */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		196DA7BF2AFB1C660041CD5E /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				196DA78D2AFA7CD70041CD5E /* DessertsViewModel.swift */,
+				196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		196DA7C02AFB1C7D0041CD5E /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				196DA7BD2AFB1C4B0041CD5E /* Constants.swift */,
+			);
+			path = Utilities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -272,9 +302,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */,
-				196DA78E2AFA7CD70041CD5E /* ContentView.swift in Sources */,
+				196DA78E2AFA7CD70041CD5E /* DessertsViewModel.swift in Sources */,
 				196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */,
+				196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */,
 				196DA78C2AFA7CD70041CD5E /* SugarApp.swift in Sources */,
+				196DA7BE2AFB1C4B0041CD5E /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
