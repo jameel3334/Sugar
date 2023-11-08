@@ -26,3 +26,9 @@ struct Dessert: Codable, Identifiable, Equatable {
         case id    = "idMeal"
     }
 }
+
+extension Desserts: Equatable {
+    static func ==(lhs: Desserts, rhs: Desserts) -> Bool {
+        return lhs.desserts == rhs.desserts
+    }
+}

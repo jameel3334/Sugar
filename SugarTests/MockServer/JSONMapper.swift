@@ -20,7 +20,6 @@ struct JSONMapper {
     }
 }
 
-
 extension JSONMapper {
     enum MappingError: Error {
         case failedToGetContents

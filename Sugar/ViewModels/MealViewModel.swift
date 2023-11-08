@@ -17,7 +17,7 @@ class MealViewModel: ObservableObject {
         do {
             let data =  try await NetworkManager.shared.service.fetchData(using: url, for: Meals.self)
                 guard let meal = data.meals.first else {
-                    throw APIError.invalidResponse
+                    throw APIError.invalidData
                 }
             Task { @MainActor in
                 fetchedMeal = meal

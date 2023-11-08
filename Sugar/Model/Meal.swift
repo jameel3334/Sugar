@@ -57,7 +57,7 @@ struct Meal: Codable, Identifiable {
     let measure19: String?
     let measure20: String?
     
-    enum CodingKeys: String, CodingKey {
+    enum CodingKeys: String, CodingKey, Equatable {
         case id           = "idMeal"
         case title        = "strMeal"
         case instructions = "strInstructions"
@@ -119,5 +119,11 @@ extension Meal {
             }
         }
         return ingredientsAndMeasures
+    }
+}
+
+extension Meals: Equatable {
+    static func == (lhs: Meals, rhs: Meals) -> Bool {
+        return lhs.meals == rhs.meals
     }
 }
