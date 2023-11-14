@@ -13,7 +13,9 @@ class MealViewModel: ObservableObject {
     let baseURL = Constants.Url.mealBaseURL
     
     func fetchMealsData(using id: String) async throws {
-        let url = "\(baseURL)\(id)"
+        guard let url = URL(string: "\(baseURL)\(id)") else {
+            throw APIError.invalidURL
+        }
         do {
             let data =  try await NetworkManager.shared.service.fetchData(using: url, for: Meals.self)
                 guard let meal = data.meals.first else {

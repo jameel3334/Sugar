@@ -11,24 +11,19 @@ struct FavoriteView: View {
     @EnvironmentObject var viewModel: FavoriteViewModel
     var body: some View {
         NavigationView {
-            Form {
-                ForEach(viewModel.addedItems, id: \.id) { dessert in
-                    NavigationLink(
-                        destination:
-                            DetailedItemView(id: dessert.id),
-                        
-                        label: {
-                            ListRowView(imageURL: dessert.imageURL, title: dessert.title)
-                        })
-                }
-                .onDelete(perform: viewModel.remove)
+            List(viewModel.addedItems, id: \.id) { dessert in
+                NavigationLink(
+                    destination:
+                        DetailedItemView(id: dessert.id),
+                    
+                    label: {
+                        ListRowView(imageURL: dessert.imageURL, title: dessert.title)
+                    })
+                .listRowSeparator(.hidden)
             }
+            .listStyle(.grouped)
             .navigationBarTitle(Constants.String.favoritesTitle)
             .navigationBarTitleDisplayMode(.large)
-            .toolbar {
-                EditButton()
-            }
         }
-        .navigationViewStyle(StackNavigationViewStyle())
     }
 }

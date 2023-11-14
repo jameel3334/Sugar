@@ -26,7 +26,7 @@ final class NetworkUnitTests: XCTestCase {
     }
     
     
-    func test_successfulResponse_code() async throws {
+    func testSuccessfulResponseCode() async throws {
         
         guard let path = Bundle.main.path(forResource: "desserts_valid_response", ofType: "json"),
               let data = FileManager.default.contents(atPath: path) else {
@@ -49,7 +49,7 @@ final class NetworkUnitTests: XCTestCase {
         XCTAssertEqual(dataResponse.desserts, staticJSON.desserts)
     }
     
-    func test_unsuccessfulResponse_code() async  {
+    func testUnsuccessfulResponseCode() async  {
         let invalidStatusCode = 400
         MockURLSessionProtocol.loadingHandler = {
             let response = HTTPURLResponse(url: self.url,

@@ -9,9 +9,11 @@ import SwiftUI
 
 @main
 struct SugarApp: App {
+    @StateObject var viewModelFavourite = FavoriteViewModel()
     var body: some Scene {
         WindowGroup {
             LaunchView()
+                .environmentObject(viewModelFavourite)
         }
     }
 }

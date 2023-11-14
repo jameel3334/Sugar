@@ -47,7 +47,7 @@ struct LaunchView: View {
                 }
             }
         } else {
-            DessertsListView()
+            TabViews()
         }
     }
 }

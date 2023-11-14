@@ -10,6 +10,10 @@ import XCTest
 
 final class DessertsUnitTest: XCTestCase {
     
+    override func tearDown() {
+        super.tearDown()
+    }
+    
     func testDecodeSuccess() {
         XCTAssertNoThrow(try JSONMapper.decode(file: "desserts_valid_response", type: Desserts.self), "Mapper shouldn't throw an error")
         let decodedModel = try? JSONMapper.decode(file: "desserts_valid_response", type: Desserts.self)

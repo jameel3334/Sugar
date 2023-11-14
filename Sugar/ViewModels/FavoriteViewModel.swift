@@ -11,7 +11,10 @@ class FavoriteViewModel: ObservableObject {
     @Published var addedItems = [Meal]()
     
     func add(addedItem: Meal) {
-        addedItems.append(addedItem)
+        if !addedItems.contains(addedItem) {
+            addedItems.append(addedItem)
+            return
+        }
     }
     
     func remove(at offsets: IndexSet) {

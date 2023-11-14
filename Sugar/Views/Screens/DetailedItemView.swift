@@ -9,14 +9,15 @@ import SwiftUI
 
 struct DetailedItemView: View {
     
-    @ObservedObject var viewModel = MealViewModel()
+    @ObservedObject var mealViewModel = MealViewModel()
+    @EnvironmentObject var favoriteViewModel:FavoriteViewModel
     @State private var isFavorite           = false
     @State private var mealAlertIsShowing   = false
     var id: String
     
     var body: some View {
         ScrollView {
-            if let meal = viewModel.fetchedMeal {
+            if let meal = mealViewModel.fetchedMeal {
                 VStack {
                     ImageView(imageURL: meal.imageURL)
                         .overlay(
@@ -34,12 +35,19 @@ struct DetailedItemView: View {
                     InstructionsView(text: meal.instructions)
                         .padding()
                 }
+                .toolbar {
+                    if !favoriteViewModel.addedItems.contains(meal) {
+                        ToolbarItem(placement: .navigationBarTrailing) {
+                            AddToFavorite(isFavorite: $isFavorite, meal: meal)
+                        }
+                    }
+                }
             }
         }
         .navigationBarTitleDisplayMode(.inline)
         .task {
             do {
-                try await viewModel.fetchMealsData(using: id)
+                try await mealViewModel.fetchMealsData(using: id)
             } catch {
                 mealAlertIsShowing = true
             }
@@ -53,6 +61,25 @@ struct DetailedItemView: View {
     }
 }
 
+struct AddToFavorite: View {
+    @EnvironmentObject var viewModel:FavoriteViewModel
+    @Binding var isFavorite: Bool
+    var meal: Meal
+    var body: some View {
+        Button(action:  {
+            self.isFavorite.toggle()
+            if self.isFavorite {
+                self.viewModel.add(addedItem: meal)
+            } else {
+                self.viewModel.undo(addedItem: meal)
+            }
+        }) {
+            Image(systemName: isFavorite ? "heart.fill" : "heart")
+                .foregroundColor(isFavorite ? .red : .gray)
+        }
+        .padding(.vertical, 10)
+    }
+}
 
 struct DetailedComponentView_Previews: PreviewProvider {
     static var previews: some View {

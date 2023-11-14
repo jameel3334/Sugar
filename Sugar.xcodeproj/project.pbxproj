@@ -12,8 +12,6 @@
 		196DA7902AFA7CDA0041CD5E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196DA78F2AFA7CDA0041CD5E /* Assets.xcassets */; };
 		196DA7932AFA7CDA0041CD5E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 196DA7922AFA7CDA0041CD5E /* Preview Assets.xcassets */; };
 		196DA79D2AFA7CDA0041CD5E /* DessertsUnitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */; };
-		196DA7A72AFA7CDB0041CD5E /* SugarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */; };
-		196DA7A92AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */; };
 		196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B62AFB1B7F0041CD5E /* Dessert.swift */; };
 		196DA7B92AFB1B940041CD5E /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7B82AFB1B940041CD5E /* Meal.swift */; };
 		196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */; };
@@ -43,17 +41,14 @@
 		19A89B082AFB324800F852DA /* desserts_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */; };
 		19A89B092AFB324D00F852DA /* desserts_invalid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */; };
 		19A89B0A2AFB325200F852DA /* meal_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF92AFB291000F852DA /* meal_valid_response.json */; };
+		19B0FE9A2B02C5BB00FCD4CD /* desserts_invalid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */; };
+		19B0FE9C2B02EF5D00FCD4CD /* desserts_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */; };
+		19B0FE9D2B02EF7900FCD4CD /* meal_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF92AFB291000F852DA /* meal_valid_response.json */; };
+		19B0FE9F2B02EFBD00FCD4CD /* FovoriteUnitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B0FE9E2B02EFBD00FCD4CD /* FovoriteUnitTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		196DA7992AFA7CDA0041CD5E /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 196DA7802AFA7CD70041CD5E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 196DA7872AFA7CD70041CD5E;
-			remoteInfo = Sugar;
-		};
-		196DA7A32AFA7CDB0041CD5E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 196DA7802AFA7CD70041CD5E /* Project object */;
 			proxyType = 1;
@@ -70,9 +65,6 @@
 		196DA7922AFA7CDA0041CD5E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertsUnitTest.swift; sourceTree = "<group>"; };
-		196DA7A22AFA7CDB0041CD5E /* SugarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITests.swift; sourceTree = "<group>"; };
-		196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		196DA7B62AFB1B7F0041CD5E /* Dessert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dessert.swift; sourceTree = "<group>"; };
 		196DA7B82AFB1B940041CD5E /* Meal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
 		196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealViewModel.swift; sourceTree = "<group>"; };
@@ -92,15 +84,16 @@
 		19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderTextView.swift; sourceTree = "<group>"; };
 		19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheAsyncImage.swift; sourceTree = "<group>"; };
 		19A89AF52AFB281800F852DA /* JSONMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONMapper.swift; sourceTree = "<group>"; };
-		19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = desserts_invalid_response.json; sourceTree = "<group>"; };
-		19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = desserts_valid_response.json; sourceTree = "<group>"; };
-		19A89AF92AFB291000F852DA /* meal_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = meal_valid_response.json; sourceTree = "<group>"; };
+		19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = desserts_invalid_response.json; path = /Users/afshanshabnam/Desktop/Fetch1/Sugar/SugarTests/desserts_invalid_response.json; sourceTree = "<absolute>"; };
+		19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = desserts_valid_response.json; path = /Users/afshanshabnam/Desktop/Fetch1/Sugar/SugarTests/desserts_valid_response.json; sourceTree = "<absolute>"; };
+		19A89AF92AFB291000F852DA /* meal_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = meal_valid_response.json; path = SugarTests/meal_valid_response.json; sourceTree = SOURCE_ROOT; };
 		19A89AFA2AFB2C6400F852DA /* FavoriteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewModel.swift; sourceTree = "<group>"; };
 		19A89AFC2AFB2CB800F852DA /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
 		19A89AFE2AFB2CE900F852DA /* FavoriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteView.swift; sourceTree = "<group>"; };
 		19A89B012AFB2DD900F852DA /* MockAPIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockAPIService.swift; sourceTree = "<group>"; };
 		19A89B032AFB2DF300F852DA /* MockProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockProtocol.swift; sourceTree = "<group>"; };
 		19A89B062AFB30A000F852DA /* NetworkUnitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkUnitTests.swift; sourceTree = "<group>"; };
+		19B0FE9E2B02EFBD00FCD4CD /* FovoriteUnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FovoriteUnitTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,13 +111,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		196DA79F2AFA7CDB0041CD5E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -133,7 +119,6 @@
 			children = (
 				196DA78A2AFA7CD70041CD5E /* Sugar */,
 				196DA79B2AFA7CDA0041CD5E /* SugarTests */,
-				196DA7A52AFA7CDB0041CD5E /* SugarUITests */,
 				196DA7892AFA7CD70041CD5E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -143,7 +128,6 @@
 			children = (
 				196DA7882AFA7CD70041CD5E /* Sugar.app */,
 				196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */,
-				196DA7A22AFA7CDB0041CD5E /* SugarUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -174,21 +158,13 @@
 			children = (
 				196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */,
 				19A89B062AFB30A000F852DA /* NetworkUnitTests.swift */,
+				19B0FE9E2B02EFBD00FCD4CD /* FovoriteUnitTest.swift */,
 				19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */,
 				19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */,
 				19A89AF92AFB291000F852DA /* meal_valid_response.json */,
 				19A89B002AFB2DB100F852DA /* MockServer */,
 			);
 			path = SugarTests;
-			sourceTree = "<group>";
-		};
-		196DA7A52AFA7CDB0041CD5E /* SugarUITests */ = {
-			isa = PBXGroup;
-			children = (
-				196DA7A62AFA7CDB0041CD5E /* SugarUITests.swift */,
-				196DA7A82AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift */,
-			);
-			path = SugarUITests;
 			sourceTree = "<group>";
 		};
 		196DA7B52AFB1B6E0041CD5E /* Model */ = {
@@ -322,24 +298,6 @@
 			productReference = 196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		196DA7A12AFA7CDB0041CD5E /* SugarUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 196DA7B22AFA7CDB0041CD5E /* Build configuration list for PBXNativeTarget "SugarUITests" */;
-			buildPhases = (
-				196DA79E2AFA7CDB0041CD5E /* Sources */,
-				196DA79F2AFA7CDB0041CD5E /* Frameworks */,
-				196DA7A02AFA7CDB0041CD5E /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				196DA7A42AFA7CDB0041CD5E /* PBXTargetDependency */,
-			);
-			name = SugarUITests;
-			productName = SugarUITests;
-			productReference = 196DA7A22AFA7CDB0041CD5E /* SugarUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -354,10 +312,6 @@
 						CreatedOnToolsVersion = 14.3;
 					};
 					196DA7972AFA7CDA0041CD5E = {
-						CreatedOnToolsVersion = 14.3;
-						TestTargetID = 196DA7872AFA7CD70041CD5E;
-					};
-					196DA7A12AFA7CDB0041CD5E = {
 						CreatedOnToolsVersion = 14.3;
 						TestTargetID = 196DA7872AFA7CD70041CD5E;
 					};
@@ -378,7 +332,6 @@
 			targets = (
 				196DA7872AFA7CD70041CD5E /* Sugar */,
 				196DA7972AFA7CDA0041CD5E /* SugarTests */,
-				196DA7A12AFA7CDB0041CD5E /* SugarUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -389,6 +342,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				196DA7932AFA7CDA0041CD5E /* Preview Assets.xcassets in Resources */,
+				19B0FE9A2B02C5BB00FCD4CD /* desserts_invalid_response.json in Resources */,
+				19B0FE9D2B02EF7900FCD4CD /* meal_valid_response.json in Resources */,
+				19B0FE9C2B02EF5D00FCD4CD /* desserts_valid_response.json in Resources */,
 				196DA7902AFA7CDA0041CD5E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -400,13 +356,6 @@
 				19A89B0A2AFB325200F852DA /* meal_valid_response.json in Resources */,
 				19A89B082AFB324800F852DA /* desserts_valid_response.json in Resources */,
 				19A89B092AFB324D00F852DA /* desserts_invalid_response.json in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		196DA7A02AFA7CDB0041CD5E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -450,18 +399,10 @@
 				19A89B022AFB2DD900F852DA /* MockAPIService.swift in Sources */,
 				19A89B042AFB2DF300F852DA /* MockProtocol.swift in Sources */,
 				19A89B072AFB30A000F852DA /* NetworkUnitTests.swift in Sources */,
+				19B0FE9F2B02EFBD00FCD4CD /* FovoriteUnitTest.swift in Sources */,
 				19A89AF62AFB281800F852DA /* JSONMapper.swift in Sources */,
 				19A89B052AFB2E1B00F852DA /* APIError.swift in Sources */,
 				196DA79D2AFA7CDA0041CD5E /* DessertsUnitTest.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		196DA79E2AFA7CDB0041CD5E /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				196DA7A72AFA7CDB0041CD5E /* SugarUITests.swift in Sources */,
-				196DA7A92AFA7CDB0041CD5E /* SugarUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -472,11 +413,6 @@
 			isa = PBXTargetDependency;
 			target = 196DA7872AFA7CD70041CD5E /* Sugar */;
 			targetProxy = 196DA7992AFA7CDA0041CD5E /* PBXContainerItemProxy */;
-		};
-		196DA7A42AFA7CDB0041CD5E /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 196DA7872AFA7CD70041CD5E /* Sugar */;
-			targetProxy = 196DA7A32AFA7CDB0041CD5E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -691,42 +627,6 @@
 			};
 			name = Release;
 		};
-		196DA7B32AFA7CDB0041CD5E /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Q75836UFYY;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = co.bd.SugarUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Sugar;
-			};
-			name = Debug;
-		};
-		196DA7B42AFA7CDB0041CD5E /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = Q75836UFYY;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = co.bd.SugarUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = Sugar;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -753,15 +653,6 @@
 			buildConfigurations = (
 				196DA7B02AFA7CDB0041CD5E /* Debug */,
 				196DA7B12AFA7CDB0041CD5E /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		196DA7B22AFA7CDB0041CD5E /* Build configuration list for PBXNativeTarget "SugarUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				196DA7B32AFA7CDB0041CD5E /* Debug */,
-				196DA7B42AFA7CDB0041CD5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
