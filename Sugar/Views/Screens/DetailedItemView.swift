@@ -10,8 +10,6 @@ import SwiftUI
 struct DetailedItemView: View {
     
     @ObservedObject var mealViewModel = MealViewModel()
-    @EnvironmentObject var favoriteViewModel:FavoriteViewModel
-    @State private var isFavorite           = false
     @State private var mealAlertIsShowing   = false
     var id: String
     
@@ -36,10 +34,8 @@ struct DetailedItemView: View {
                         .padding()
                 }
                 .toolbar {
-                    if !favoriteViewModel.addedItems.contains(meal) {
-                        ToolbarItem(placement: .navigationBarTrailing) {
-                            AddToFavorite(isFavorite: $isFavorite, meal: meal)
-                        }
+                    ToolbarItem(placement: .navigationBarTrailing) {
+                        AddToFavorite(meal: meal)
                     }
                 }
             }
@@ -63,21 +59,26 @@ struct DetailedItemView: View {
 
 struct AddToFavorite: View {
     @EnvironmentObject var viewModel:FavoriteViewModel
-    @Binding var isFavorite: Bool
     var meal: Meal
     var body: some View {
-        Button(action:  {
-            self.isFavorite.toggle()
-            if self.isFavorite {
-                self.viewModel.add(addedItem: meal)
-            } else {
-                self.viewModel.undo(addedItem: meal)
+        if !viewModel.addedItems.contains(meal) {
+            Button(action:  {
+                viewModel.add(addedItem: meal)
+            }) {
+                Image(systemName: "heart" )
+                    .foregroundColor(.gray)
             }
-        }) {
-            Image(systemName: isFavorite ? "heart.fill" : "heart")
-                .foregroundColor(isFavorite ? .red : .gray)
+            .padding(.vertical, 10)
+            
+        } else {
+            Button(action:  {
+                viewModel.undo(addedItem: meal)
+            }) {
+                Image(systemName: "heart.fill" )
+                    .foregroundColor(.red)
+            }
+            .padding(.vertical, 10)
         }
-        .padding(.vertical, 10)
     }
 }
 

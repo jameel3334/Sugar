@@ -17,7 +17,6 @@
 		196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */; };
 		196DA7BE2AFB1C4B0041CD5E /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7BD2AFB1C4B0041CD5E /* Constants.swift */; };
 		196DA7C32AFB1EE80041CD5E /* APIServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C22AFB1EE80041CD5E /* APIServiceProtocol.swift */; };
-		196DA7C52AFB1F0A0041CD5E /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C42AFB1F0A0041CD5E /* NetworkManager.swift */; };
 		196DA7C72AFB1F250041CD5E /* APIService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C62AFB1F250041CD5E /* APIService.swift */; };
 		196DA7C92AFB1F510041CD5E /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C82AFB1F510041CD5E /* APIError.swift */; };
 		19A89ADF2AFB25FB00F852DA /* LaunchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89ADE2AFB25FB00F852DA /* LaunchView.swift */; };
@@ -39,16 +38,24 @@
 		19A89B052AFB2E1B00F852DA /* APIError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 196DA7C82AFB1F510041CD5E /* APIError.swift */; };
 		19A89B072AFB30A000F852DA /* NetworkUnitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19A89B062AFB30A000F852DA /* NetworkUnitTests.swift */; };
 		19A89B082AFB324800F852DA /* desserts_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */; };
-		19A89B092AFB324D00F852DA /* desserts_invalid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */; };
 		19A89B0A2AFB325200F852DA /* meal_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF92AFB291000F852DA /* meal_valid_response.json */; };
-		19B0FE9A2B02C5BB00FCD4CD /* desserts_invalid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */; };
 		19B0FE9C2B02EF5D00FCD4CD /* desserts_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */; };
 		19B0FE9D2B02EF7900FCD4CD /* meal_valid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19A89AF92AFB291000F852DA /* meal_valid_response.json */; };
 		19B0FE9F2B02EFBD00FCD4CD /* FovoriteUnitTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B0FE9E2B02EFBD00FCD4CD /* FovoriteUnitTest.swift */; };
+		19B0FEA42B031B1B00FCD4CD /* desserts_invalid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19B0FEA32B031B1B00FCD4CD /* desserts_invalid_response.json */; };
+		19B0FEA52B031B1B00FCD4CD /* desserts_invalid_response.json in Resources */ = {isa = PBXBuildFile; fileRef = 19B0FEA32B031B1B00FCD4CD /* desserts_invalid_response.json */; };
+		19B0FEAD2B031C4C00FCD4CD /* SugarUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B0FEAC2B031C4C00FCD4CD /* SugarUITests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
 		196DA7992AFA7CDA0041CD5E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 196DA7802AFA7CD70041CD5E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 196DA7872AFA7CD70041CD5E;
+			remoteInfo = Sugar;
+		};
+		19B0FEB02B031C4C00FCD4CD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 196DA7802AFA7CD70041CD5E /* Project object */;
 			proxyType = 1;
@@ -70,7 +77,6 @@
 		196DA7BA2AFB1BD10041CD5E /* MealViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealViewModel.swift; sourceTree = "<group>"; };
 		196DA7BD2AFB1C4B0041CD5E /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		196DA7C22AFB1EE80041CD5E /* APIServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIServiceProtocol.swift; sourceTree = "<group>"; };
-		196DA7C42AFB1F0A0041CD5E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		196DA7C62AFB1F250041CD5E /* APIService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIService.swift; sourceTree = "<group>"; };
 		196DA7C82AFB1F510041CD5E /* APIError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIError.swift; sourceTree = "<group>"; };
 		19A89ADE2AFB25FB00F852DA /* LaunchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchView.swift; sourceTree = "<group>"; };
@@ -84,9 +90,8 @@
 		19A89AF12AFB27AA00F852DA /* HeaderTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderTextView.swift; sourceTree = "<group>"; };
 		19A89AF32AFB27C900F852DA /* CacheAsyncImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CacheAsyncImage.swift; sourceTree = "<group>"; };
 		19A89AF52AFB281800F852DA /* JSONMapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONMapper.swift; sourceTree = "<group>"; };
-		19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = desserts_invalid_response.json; path = /Users/afshanshabnam/Desktop/Fetch1/Sugar/SugarTests/desserts_invalid_response.json; sourceTree = "<absolute>"; };
-		19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = desserts_valid_response.json; path = /Users/afshanshabnam/Desktop/Fetch1/Sugar/SugarTests/desserts_valid_response.json; sourceTree = "<absolute>"; };
-		19A89AF92AFB291000F852DA /* meal_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = meal_valid_response.json; path = SugarTests/meal_valid_response.json; sourceTree = SOURCE_ROOT; };
+		19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = desserts_valid_response.json; path = /Users/afshanshabnam/Desktop/Fetch1/Sugar/SugarUnitTests/desserts_valid_response.json; sourceTree = "<absolute>"; };
+		19A89AF92AFB291000F852DA /* meal_valid_response.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; name = meal_valid_response.json; path = /Users/afshanshabnam/Desktop/Fetch1/Sugar/SugarUnitTests/meal_valid_response.json; sourceTree = "<absolute>"; };
 		19A89AFA2AFB2C6400F852DA /* FavoriteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteViewModel.swift; sourceTree = "<group>"; };
 		19A89AFC2AFB2CB800F852DA /* TabViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViews.swift; sourceTree = "<group>"; };
 		19A89AFE2AFB2CE900F852DA /* FavoriteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteView.swift; sourceTree = "<group>"; };
@@ -94,6 +99,9 @@
 		19A89B032AFB2DF300F852DA /* MockProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MockProtocol.swift; sourceTree = "<group>"; };
 		19A89B062AFB30A000F852DA /* NetworkUnitTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkUnitTests.swift; sourceTree = "<group>"; };
 		19B0FE9E2B02EFBD00FCD4CD /* FovoriteUnitTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FovoriteUnitTest.swift; sourceTree = "<group>"; };
+		19B0FEA32B031B1B00FCD4CD /* desserts_invalid_response.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = desserts_invalid_response.json; sourceTree = "<group>"; };
+		19B0FEAA2B031C4C00FCD4CD /* SugarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SugarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		19B0FEAC2B031C4C00FCD4CD /* SugarUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SugarUITests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +119,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		19B0FEA72B031C4B00FCD4CD /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -118,7 +133,8 @@
 			isa = PBXGroup;
 			children = (
 				196DA78A2AFA7CD70041CD5E /* Sugar */,
-				196DA79B2AFA7CDA0041CD5E /* SugarTests */,
+				196DA79B2AFA7CDA0041CD5E /* SugarUnitTests */,
+				19B0FEAB2B031C4C00FCD4CD /* SugarUITests */,
 				196DA7892AFA7CD70041CD5E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -128,6 +144,7 @@
 			children = (
 				196DA7882AFA7CD70041CD5E /* Sugar.app */,
 				196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */,
+				19B0FEAA2B031C4C00FCD4CD /* SugarUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -153,18 +170,18 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		196DA79B2AFA7CDA0041CD5E /* SugarTests */ = {
+		196DA79B2AFA7CDA0041CD5E /* SugarUnitTests */ = {
 			isa = PBXGroup;
 			children = (
 				196DA79C2AFA7CDA0041CD5E /* DessertsUnitTest.swift */,
 				19A89B062AFB30A000F852DA /* NetworkUnitTests.swift */,
 				19B0FE9E2B02EFBD00FCD4CD /* FovoriteUnitTest.swift */,
-				19A89AF72AFB287F00F852DA /* desserts_invalid_response.json */,
+				19B0FEA32B031B1B00FCD4CD /* desserts_invalid_response.json */,
 				19A89AF82AFB28DD00F852DA /* desserts_valid_response.json */,
 				19A89AF92AFB291000F852DA /* meal_valid_response.json */,
 				19A89B002AFB2DB100F852DA /* MockServer */,
 			);
-			path = SugarTests;
+			path = SugarUnitTests;
 			sourceTree = "<group>";
 		};
 		196DA7B52AFB1B6E0041CD5E /* Model */ = {
@@ -209,7 +226,6 @@
 			isa = PBXGroup;
 			children = (
 				196DA7C22AFB1EE80041CD5E /* APIServiceProtocol.swift */,
-				196DA7C42AFB1F0A0041CD5E /* NetworkManager.swift */,
 				196DA7C62AFB1F250041CD5E /* APIService.swift */,
 				196DA7C82AFB1F510041CD5E /* APIError.swift */,
 			);
@@ -260,6 +276,14 @@
 			path = MockServer;
 			sourceTree = "<group>";
 		};
+		19B0FEAB2B031C4C00FCD4CD /* SugarUITests */ = {
+			isa = PBXGroup;
+			children = (
+				19B0FEAC2B031C4C00FCD4CD /* SugarUITests.swift */,
+			);
+			path = SugarUITests;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -298,6 +322,24 @@
 			productReference = 196DA7982AFA7CDA0041CD5E /* SugarTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		19B0FEA92B031C4B00FCD4CD /* SugarUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 19B0FEB22B031C4C00FCD4CD /* Build configuration list for PBXNativeTarget "SugarUITests" */;
+			buildPhases = (
+				19B0FEA62B031C4B00FCD4CD /* Sources */,
+				19B0FEA72B031C4B00FCD4CD /* Frameworks */,
+				19B0FEA82B031C4B00FCD4CD /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				19B0FEB12B031C4C00FCD4CD /* PBXTargetDependency */,
+			);
+			name = SugarUITests;
+			productName = SugarUITests;
+			productReference = 19B0FEAA2B031C4C00FCD4CD /* SugarUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -312,6 +354,10 @@
 						CreatedOnToolsVersion = 14.3;
 					};
 					196DA7972AFA7CDA0041CD5E = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = 196DA7872AFA7CD70041CD5E;
+					};
+					19B0FEA92B031C4B00FCD4CD = {
 						CreatedOnToolsVersion = 14.3;
 						TestTargetID = 196DA7872AFA7CD70041CD5E;
 					};
@@ -332,6 +378,7 @@
 			targets = (
 				196DA7872AFA7CD70041CD5E /* Sugar */,
 				196DA7972AFA7CDA0041CD5E /* SugarTests */,
+				19B0FEA92B031C4B00FCD4CD /* SugarUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -342,7 +389,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				196DA7932AFA7CDA0041CD5E /* Preview Assets.xcassets in Resources */,
-				19B0FE9A2B02C5BB00FCD4CD /* desserts_invalid_response.json in Resources */,
+				19B0FEA42B031B1B00FCD4CD /* desserts_invalid_response.json in Resources */,
 				19B0FE9D2B02EF7900FCD4CD /* meal_valid_response.json in Resources */,
 				19B0FE9C2B02EF5D00FCD4CD /* desserts_valid_response.json in Resources */,
 				196DA7902AFA7CDA0041CD5E /* Assets.xcassets in Resources */,
@@ -355,7 +402,14 @@
 			files = (
 				19A89B0A2AFB325200F852DA /* meal_valid_response.json in Resources */,
 				19A89B082AFB324800F852DA /* desserts_valid_response.json in Resources */,
-				19A89B092AFB324D00F852DA /* desserts_invalid_response.json in Resources */,
+				19B0FEA52B031B1B00FCD4CD /* desserts_invalid_response.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		19B0FEA82B031C4B00FCD4CD /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -380,7 +434,6 @@
 				196DA7B72AFB1B7F0041CD5E /* Dessert.swift in Sources */,
 				19A89AFD2AFB2CB800F852DA /* TabViews.swift in Sources */,
 				19A89AEE2AFB276F00F852DA /* InstructionsView.swift in Sources */,
-				196DA7C52AFB1F0A0041CD5E /* NetworkManager.swift in Sources */,
 				19A89AF02AFB279700F852DA /* BodyTextView.swift in Sources */,
 				196DA7BB2AFB1BD10041CD5E /* MealViewModel.swift in Sources */,
 				196DA78C2AFA7CD70041CD5E /* SugarApp.swift in Sources */,
@@ -406,6 +459,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		19B0FEA62B031C4B00FCD4CD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				19B0FEAD2B031C4C00FCD4CD /* SugarUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -413,6 +474,11 @@
 			isa = PBXTargetDependency;
 			target = 196DA7872AFA7CD70041CD5E /* Sugar */;
 			targetProxy = 196DA7992AFA7CDA0041CD5E /* PBXContainerItemProxy */;
+		};
+		19B0FEB12B031C4C00FCD4CD /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 196DA7872AFA7CD70041CD5E /* Sugar */;
+			targetProxy = 19B0FEB02B031C4C00FCD4CD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -627,6 +693,40 @@
 			};
 			name = Release;
 		};
+		19B0FEB32B031C4C00FCD4CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q75836UFYY;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.bd.SugarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Sugar;
+			};
+			name = Debug;
+		};
+		19B0FEB42B031C4C00FCD4CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = Q75836UFYY;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = co.bd.SugarUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Sugar;
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -653,6 +753,15 @@
 			buildConfigurations = (
 				196DA7B02AFA7CDB0041CD5E /* Debug */,
 				196DA7B12AFA7CDB0041CD5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		19B0FEB22B031C4C00FCD4CD /* Build configuration list for PBXNativeTarget "SugarUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				19B0FEB32B031C4C00FCD4CD /* Debug */,
+				19B0FEB42B031C4C00FCD4CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

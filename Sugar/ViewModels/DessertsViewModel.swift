@@ -11,12 +11,18 @@ class DessertsViewModel: ObservableObject {
     
     @Published var desserts: [Dessert] = []
     
+    let networkManager: APIServiceProtocol
+       
+    init(networkManager: APIServiceProtocol = APIService()) {
+        self.networkManager = networkManager
+    }
+    
     func fetchDessertData() async throws {
         guard let url = URL(string: Constants.Url.dessertsURL) else {
             throw APIError.invalidURL
         }
         do {
-            let data = try await NetworkManager.shared.service.fetchData(using: url, for: Desserts.self)
+            let data = try await networkManager.fetchData(using: url, for: Desserts.self)
             Task { @MainActor in
                 self.desserts = data.desserts
             }
