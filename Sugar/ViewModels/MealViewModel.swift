@@ -17,7 +17,7 @@ class MealViewModel: ObservableObject {
         self.networkManager = networkManager
     }
     
-    public func fetchMealsData(using id: String) async throws {
+    func fetchMealsData(using id: String) async throws {
         guard let url = URL(string: "\(baseURL)\(id)") else {
             throw APIError.invalidURL
         }

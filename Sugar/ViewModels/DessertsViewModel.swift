@@ -16,7 +16,7 @@ class DessertsViewModel: ObservableObject {
         self.networkManager = networkManager
     }
     
-    public func fetchDessertData() async throws {
+    func fetchDessertData() async throws {
         guard let url = URL(string: Constants.Url.dessertsURL) else {
             throw APIError.invalidURL
         }
