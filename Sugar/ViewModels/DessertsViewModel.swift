@@ -10,14 +10,13 @@ import SwiftUI
 class DessertsViewModel: ObservableObject {
     
     @Published var desserts: [Dessert] = []
+    private let networkManager: APIServiceProtocol
     
-    let networkManager: APIServiceProtocol
-       
     init(networkManager: APIServiceProtocol = APIService()) {
         self.networkManager = networkManager
     }
     
-    func fetchDessertData() async throws {
+    public func fetchDessertData() async throws {
         guard let url = URL(string: Constants.Url.dessertsURL) else {
             throw APIError.invalidURL
         }

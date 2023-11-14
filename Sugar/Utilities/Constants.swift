@@ -25,7 +25,7 @@ enum Constants {
         public static let heart                  = "heart"
         public static let heartFilled            = "heart.fill"
         public static let infoCircle             = "info.circle"
-
+        
     }
     enum String {
         public static let dessertsTitle         = "DESSERTS"
@@ -33,7 +33,6 @@ enum Constants {
         public static let appName               = "Sugar Rush"
         public static let instructionViewTitle  = "Instructions"
         public static let ingredientsViewTitle  = "Ingredients"
-        public static let tapForIngredients     = "Tap me for Ingredients"
         public static let alertTitle            = "Something went wrong"
         public static let alertMessage          = "Unable to complete your request, Please try again later"
     }

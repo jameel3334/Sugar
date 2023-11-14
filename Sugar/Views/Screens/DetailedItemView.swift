@@ -65,7 +65,7 @@ struct AddToFavorite: View {
             Button(action:  {
                 viewModel.add(addedItem: meal)
             }) {
-                Image(systemName: "heart" )
+                Image(systemName: Constants.Image.heart)
                     .foregroundColor(.gray)
             }
             .padding(.vertical, 10)
@@ -74,7 +74,7 @@ struct AddToFavorite: View {
             Button(action:  {
                 viewModel.undo(addedItem: meal)
             }) {
-                Image(systemName: "heart.fill" )
+                Image(systemName: Constants.Image.heartFilled)
                     .foregroundColor(.red)
             }
             .padding(.vertical, 10)

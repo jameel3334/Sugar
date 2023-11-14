@@ -10,18 +10,18 @@ import SwiftUI
 class FavoriteViewModel: ObservableObject {
     @Published var addedItems = [Meal]()
     
-    func add(addedItem: Meal) {
+    public func add(addedItem: Meal) {
         if !addedItems.contains(addedItem) {
             addedItems.append(addedItem)
             return
         }
     }
     
-    func remove(at offsets: IndexSet) {
+    public func remove(at offsets: IndexSet) {
         addedItems.remove(atOffsets: offsets)
     }
     
-    func undo(addedItem: Meal) {
+    public func undo(addedItem: Meal) {
         if let index = addedItems.firstIndex(where: { $0.id == addedItem.id}) {
             addedItems.remove(at: index)
         }

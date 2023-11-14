@@ -12,7 +12,7 @@ struct LaunchView: View {
     @State private var launchScreenIsShowing = true
     @State private var size                  = 0.75
     @State private var opacity               = 0.75
-
+    
     var body: some View {
         if launchScreenIsShowing {
             ZStack {
@@ -25,7 +25,7 @@ struct LaunchView: View {
                         .resizable()
                         .frame(width: 200, height: 200)
                         .opacity(opacity)
-                      .scaleEffect(size)
+                        .scaleEffect(size)
                     
                     Text(Constants.String.appName.uppercased())
                         .cornerRadius(12)
