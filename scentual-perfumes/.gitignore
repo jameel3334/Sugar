@@ -1,4 +1,0 @@
-node_modules
-dist
-.env
-apps/api/data/orders.json
