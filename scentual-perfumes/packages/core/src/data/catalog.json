@@ -1,0 +1,10534 @@
+[
+{
+"id": "sedra-nero",
+"sku": "SP-0001",
+"name": "Sedra Nero",
+"rawName": "SEDRA NERO",
+"collection": "signature",
+"gender": "men",
+"family": "leather",
+"notes": [
+"Smoked woods",
+"Charred amber",
+"Black pepper"
+],
+"image": "nero.jpg",
+"signature": true,
+"defaultSize": 200
+},
+{
+"id": "ruby-prestige",
+"sku": "SP-0002",
+"name": "Ruby Prestige",
+"rawName": "RUBY PRESTIGE",
+"collection": "signature",
+"gender": "women",
+"family": "sweet",
+"notes": [
+"Red berries",
+"Rose",
+"Sparkling musk"
+],
+"image": "ruby-prestige.jpg",
+"signature": true,
+"defaultSize": 100
+},
+{
+"id": "gis-ellora",
+"sku": "SP-0003",
+"name": "GIS Ellora",
+"rawName": "GIS ELLORA",
+"collection": "signature",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Sun-warmed citrus",
+"Sea salt",
+"Golden amber"
+],
+"image": "ellora.jpg",
+"signature": true,
+"defaultSize": 100
+},
+{
+"id": "you-absolutely",
+"sku": "SP-0004",
+"name": "You Absolutely",
+"rawName": "YOU ABSOLUTELY",
+"collection": "signature",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Saffron",
+"Leather",
+"Dark resin"
+],
+"image": "you-absolutely.jpg",
+"signature": true,
+"defaultSize": 100
+},
+{
+"id": "1872-for-men-cl-christ",
+"sku": "ARG-0001",
+"name": "1872 For Men-CL.Christ",
+"rawName": "1872 FOR MEN-CL.CHRIST",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "1872-women-cl-chr",
+"sku": "ARG-0002",
+"name": "1872 Women-CL.CHR",
+"rawName": "1872 WOMEN-CL.CHR",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "18k-jazeera",
+"sku": "ARG-0003",
+"name": "18k Jazeera",
+"rawName": "18K JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "212-men",
+"sku": "ARG-0004",
+"name": "212 Men",
+"rawName": "212 MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "212-sexy-men",
+"sku": "ARG-0005",
+"name": "212 Sexy Men",
+"rawName": "212 SEXY MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "212-sexy-women",
+"sku": "ARG-0006",
+"name": "212 Sexy Women",
+"rawName": "212 SEXY WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "212-vip-black-ch-m",
+"sku": "ARG-0007",
+"name": "212 VIP Black CH.M",
+"rawName": "212 VIP BLACK CH.M",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "212-vip-men",
+"sku": "ARG-0008",
+"name": "212 VIP Men",
+"rawName": "212 VIP MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "212-vip-women",
+"sku": "ARG-0009",
+"name": "212 VIP Women",
+"rawName": "212 VIP WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "29-february-a-dokn",
+"sku": "ARG-0010",
+"name": "29 February A.Dokn",
+"rawName": "29 FEBRUARY A.DOKN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "2-december-a-dokhoon",
+"sku": "ARG-0011",
+"name": "2 December-A.Dokhoon",
+"rawName": "2 DECEMBER-A.DOKHOON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "555-al-jazeera",
+"sku": "ARG-0012",
+"name": "555 Al Jazeera",
+"rawName": "555 AL JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "absolu-de-oranger-giv",
+"sku": "ARG-0013",
+"name": "Absolu De Oranger-GIV",
+"rawName": "ABSOLU DE ORANGER-GIV",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "accento-sospiro",
+"sku": "ARG-0014",
+"name": "Accento Sospiro",
+"rawName": "ACCENTO SOSPIRO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "adventure-davidoff",
+"sku": "ARG-0015",
+"name": "Adventure Davidoff",
+"rawName": "ADVENTURE DAVIDOFF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "afghano-puro-sospiro",
+"sku": "ARG-0016",
+"name": "Afghano Puro Sospiro",
+"rawName": "AFGHANO PURO SOSPIRO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "african-leather-memo",
+"sku": "ARG-0017",
+"name": "African Leather Memo",
+"rawName": "AFRICAN LEATHER MEMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "after-noon-swim-l-vuitton",
+"sku": "ARG-0018",
+"name": "After Noon Swim-L.Vuitton",
+"rawName": "AFTER NOON SWIM-L.VUITTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "agar-royal-chopard",
+"sku": "ARG-0019",
+"name": "Agar Royal Chopard",
+"rawName": "AGAR ROYAL CHOPARD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aghla-shay-anfasic-dokhoon",
+"sku": "ARG-0020",
+"name": "Aghla Shay Anfasic Dokhoon",
+"rawName": "AGHLA SHAY ANFASIC DOKHOON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aigner-starlight",
+"sku": "ARG-0021",
+"name": "Aigner Starlight",
+"rawName": "AIGNER STARLIGHT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "alf-lailolail",
+"sku": "ARG-0022",
+"name": "Alf Lailolail",
+"rawName": "ALF LAILOLAIL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aliage-est-lauder",
+"sku": "ARG-0023",
+"name": "Aliage Est.Lauder",
+"rawName": "ALIAGE EST.LAUDER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "alien-oud-majestueux",
+"sku": "ARG-0024",
+"name": "Alien Oud Majestueux",
+"rawName": "ALIEN OUD MAJESTUEUX",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "alien-women",
+"sku": "ARG-0025",
+"name": "Alien Women",
+"rawName": "ALIEN WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "allure-chanel",
+"sku": "ARG-0026",
+"name": "Allure Chanel",
+"rawName": "ALLURE CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "allure-homme-chanel",
+"sku": "ARG-0027",
+"name": "Allure Homme Chanel",
+"rawName": "ALLURE HOMME CHANEL",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "allure-sport",
+"sku": "ARG-0028",
+"name": "Allure Sport",
+"rawName": "ALLURE SPORT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "al-oud-hind-al-oud",
+"sku": "ARG-0029",
+"name": "Al Oud Hind Al Oud",
+"rawName": "AL OUD HIND AL OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-absolute-t-f",
+"sku": "ARG-0030",
+"name": "Amber Absolute T.F.",
+"rawName": "AMBER ABSOLUTE T.F.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-aoud-roja",
+"sku": "ARG-0031",
+"name": "Amber Aoud Roja",
+"rawName": "AMBER AOUD ROJA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-lavender-j-m",
+"sku": "ARG-0032",
+"name": "Amber Lavender-J.M",
+"rawName": "AMBER LAVENDER-J.M",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-malaki-chopard",
+"sku": "ARG-0033",
+"name": "Amber Malaki Chopard",
+"rawName": "AMBER MALAKI CHOPARD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-mistique-st-ldr",
+"sku": "ARG-0034",
+"name": "Amber Mistique-ST.LDR",
+"rawName": "AMBER MISTIQUE-ST.LDR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-musc-narciso",
+"sku": "ARG-0035",
+"name": "Amber Musc-Narciso",
+"rawName": "AMBER MUSC-NARCISO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-narguille-hermes",
+"sku": "ARG-0036",
+"name": "Amber Narguille Hermes",
+"rawName": "AMBER NARGUILLE HERMES",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-nuit-dior",
+"sku": "ARG-0037",
+"name": "Amber Nuit Dior",
+"rawName": "AMBER NUIT DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-oud-kilian",
+"sku": "ARG-0038",
+"name": "Amber Oud Kilian",
+"rawName": "AMBER OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": "amber-oud.jpg",
+"signature": false
+},
+{
+"id": "amber-wood-ajmal",
+"sku": "ARG-0039",
+"name": "Amber Wood-Ajmal",
+"rawName": "AMBER WOOD-AJMAL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ambre-eternal-guerlain",
+"sku": "ARG-0040",
+"name": "Ambre Eternal Guerlain",
+"rawName": "AMBRE ETERNAL GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ambre-imperial-vanclief",
+"sku": "ARG-0041",
+"name": "Ambre Imperial Vanclief",
+"rawName": "AMBRE IMPERIAL VANCLIEF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "angel-s-share-by-kilian",
+"sku": "ARG-0042",
+"name": "Angel's Share By Kilian",
+"rawName": "ANGEL'S SHARE BY KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "angel-m",
+"sku": "ARG-0043",
+"name": "Angel M",
+"rawName": "ANGEL M",
+"collection": "argeville",
+"gender": "men",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "angel-women",
+"sku": "ARG-0044",
+"name": "Angel Women",
+"rawName": "ANGEL WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aoud-melody-jazeera",
+"sku": "ARG-0045",
+"name": "Aoud Melody Jazeera",
+"rawName": "AOUD MELODY JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "apple",
+"sku": "ARG-0046",
+"name": "Apple",
+"rawName": "APPLE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aqua-de-gio-armani-m",
+"sku": "ARG-0047",
+"name": "Aqua De Gio Armani M",
+"rawName": "AQUA DE GIO ARMANI M",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aqua-di-gio-profumo",
+"sku": "ARG-0048",
+"name": "Aqua Di Gio Profumo",
+"rawName": "AQUA DI GIO PROFUMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aqua-di-gio-w",
+"sku": "ARG-0049",
+"name": "Aqua Di Gio W",
+"rawName": "AQUA DI GIO W",
+"collection": "argeville",
+"gender": "women",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aramis-900",
+"sku": "ARG-0050",
+"name": "Aramis 900",
+"rawName": "ARAMIS 900",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "armani-code-absolu-men",
+"sku": "ARG-0051",
+"name": "Armani Code Absolu-Men",
+"rawName": "ARMANI CODE ABSOLU-MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "armani-code-men",
+"sku": "ARG-0052",
+"name": "Armani Code Men",
+"rawName": "ARMANI CODE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "armani-code-profumo",
+"sku": "ARG-0053",
+"name": "Armani Code Profumo",
+"rawName": "ARMANI CODE PROFUMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "armani-code-women",
+"sku": "ARG-0054",
+"name": "Armani Code Women",
+"rawName": "ARMANI CODE WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aromatics",
+"sku": "ARG-0055",
+"name": "Aromatics",
+"rawName": "AROMATICS",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aroosah",
+"sku": "ARG-0056",
+"name": "Aroosah",
+"rawName": "AROOSAH",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "arzak",
+"sku": "ARG-0057",
+"name": "Arzak",
+"rawName": "ARZAK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aseel",
+"sku": "ARG-0058",
+"name": "Aseel",
+"rawName": "ASEEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "at-first-sight-v-s",
+"sku": "ARG-0059",
+"name": "At First Sight-V/s",
+"rawName": "AT FIRST SIGHT-V/S",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "azuree-estee-lauder",
+"sku": "ARG-0060",
+"name": "Azuree Estee Lauder",
+"rawName": "AZUREE ESTEE LAUDER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "baby-johnson-p",
+"sku": "ARG-0061",
+"name": "Baby Johnson.P",
+"rawName": "BABY JOHNSON.P",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "baccarat-rouge-540",
+"sku": "ARG-0062",
+"name": "Baccarat Rouge 540",
+"rawName": "BACCARAT ROUGE 540",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "beautiful-st-ldr",
+"sku": "ARG-0063",
+"name": "Beautiful-ST.LDR",
+"rawName": "BEAUTIFUL-ST.LDR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "because-it-s-you-armani",
+"sku": "ARG-0064",
+"name": "Because It's You Armani",
+"rawName": "BECAUSE IT'S YOU ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "be-delecious-dkny",
+"sku": "ARG-0065",
+"name": "Be Delecious DKNY",
+"rawName": "BE DELECIOUS DKNY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bergamot",
+"sku": "ARG-0066",
+"name": "Bergamot",
+"rawName": "BERGAMOT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-afghano",
+"sku": "ARG-0067",
+"name": "Black Afghano",
+"rawName": "BLACK AFGHANO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-line-mancera",
+"sku": "ARG-0068",
+"name": "Black Line Mancera",
+"rawName": "BLACK LINE MANCERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-musk",
+"sku": "ARG-0069",
+"name": "Black Musk",
+"rawName": "BLACK MUSK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-musk-jazeera",
+"sku": "ARG-0070",
+"name": "Black Musk Jazeera",
+"rawName": "BLACK MUSK JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-opium-ysl",
+"sku": "ARG-0071",
+"name": "Black Opium YSL",
+"rawName": "BLACK OPIUM YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-orchid-tomford",
+"sku": "ARG-0072",
+"name": "Black Orchid Tomford",
+"rawName": "BLACK ORCHID TOMFORD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-oud-jazeera",
+"sku": "ARG-0073",
+"name": "Black Oud Jazeera",
+"rawName": "BLACK OUD JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-oud-kilian",
+"sku": "ARG-0074",
+"name": "Black Oud Kilian",
+"rawName": "BLACK OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-phantom-kilian",
+"sku": "ARG-0075",
+"name": "Black Phantom Kilian",
+"rawName": "BLACK PHANTOM KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-saffron-byredo",
+"sku": "ARG-0076",
+"name": "Black Saffron Byredo",
+"rawName": "BLACK SAFFRON BYREDO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-shine-ferrari",
+"sku": "ARG-0077",
+"name": "Black Shine Ferrari",
+"rawName": "BLACK SHINE FERRARI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-stone-asq",
+"sku": "ARG-0078",
+"name": "Black Stone-Asq",
+"rawName": "BLACK STONE-ASQ",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-vanilla-mancera",
+"sku": "ARG-0079",
+"name": "Black Vanilla Mancera",
+"rawName": "BLACK VANILLA MANCERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-xs-l-exces-men",
+"sku": "ARG-0080",
+"name": "Black XS L'exces Men",
+"rawName": "BLACK XS L'EXCES MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-xs-l-exces-w",
+"sku": "ARG-0081",
+"name": "Black XS L'exces-W",
+"rawName": "BLACK XS L'EXCES-W",
+"collection": "argeville",
+"gender": "women",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-xs-men",
+"sku": "ARG-0082",
+"name": "Black XS Men",
+"rawName": "BLACK XS MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-xs-w",
+"sku": "ARG-0083",
+"name": "Black XS-W",
+"rawName": "BLACK XS-W",
+"collection": "argeville",
+"gender": "women",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bleu-de-chanel",
+"sku": "ARG-0084",
+"name": "Bleu De Chanel",
+"rawName": "BLEU DE CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bleu-lazuli-armani",
+"sku": "ARG-0085",
+"name": "Bleu Lazuli Armani",
+"rawName": "BLEU LAZULI ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bloom-gocce-di-fiori-gucci",
+"sku": "ARG-0086",
+"name": "Bloom Gocce Di Fiori Gucci",
+"rawName": "BLOOM GOCCE DI FIORI GUCCI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bloom-gucci-w",
+"sku": "ARG-0087",
+"name": "Bloom Gucci .W",
+"rawName": "BLOOM GUCCI .W",
+"collection": "argeville",
+"gender": "women",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "blossom-powder",
+"sku": "ARG-0088",
+"name": "Blossom Powder",
+"rawName": "BLOSSOM POWDER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "body-musk-al-quraishi",
+"sku": "ARG-0089",
+"name": "Body Musk Al Quraishi",
+"rawName": "BODY MUSK AL QURAISHI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bois-d-argent-dior",
+"sku": "ARG-0090",
+"name": "Bois D'argent Dior",
+"rawName": "BOIS D'ARGENT DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bombshell",
+"sku": "ARG-0091",
+"name": "Bombshell",
+"rawName": "BOMBSHELL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-bottled-night",
+"sku": "ARG-0092",
+"name": "Boss Bottled Night",
+"rawName": "BOSS BOTTLED NIGHT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-bottled-oud",
+"sku": "ARG-0093",
+"name": "Boss Bottled Oud",
+"rawName": "BOSS BOTTLED OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-femme",
+"sku": "ARG-0094",
+"name": "Boss Femme",
+"rawName": "BOSS FEMME",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-orange-men",
+"sku": "ARG-0095",
+"name": "Boss Orange Men",
+"rawName": "BOSS ORANGE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-the-scent-le-perfum-men",
+"sku": "ARG-0096",
+"name": "Boss The Scent Le Perfum Men",
+"rawName": "BOSS THE SCENT LE PERFUM MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-the-scent-le-perfum-women",
+"sku": "ARG-0097",
+"name": "Boss The Scent Le Perfum Women",
+"rawName": "BOSS THE SCENT LE PERFUM WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-the-scent-m",
+"sku": "ARG-0098",
+"name": "Boss The Scent-M",
+"rawName": "BOSS THE SCENT-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-the-scent-w",
+"sku": "ARG-0099",
+"name": "Boss The Scent W",
+"rawName": "BOSS THE SCENT W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bottega-vanetta-men",
+"sku": "ARG-0100",
+"name": "Bottega Vanetta-Men",
+"rawName": "BOTTEGA VANETTA-MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bottega-vanetta-w",
+"sku": "ARG-0101",
+"name": "Bottega Vanetta-W",
+"rawName": "BOTTEGA VANETTA-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bubble-gum",
+"sku": "ARG-0102",
+"name": "Bubble Gum",
+"rawName": "BUBBLE GUM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "burberry-body",
+"sku": "ARG-0103",
+"name": "Burberry Body",
+"rawName": "BURBERRY BODY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "burberry-brit-m",
+"sku": "ARG-0104",
+"name": "Burberry Brit M",
+"rawName": "BURBERRY BRIT M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "burberry-brit-w",
+"sku": "ARG-0105",
+"name": "Burberry Brit W",
+"rawName": "BURBERRY BRIT W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "burberry-london-men",
+"sku": "ARG-0106",
+"name": "Burberry London Men",
+"rawName": "BURBERRY LONDON MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "burberry-old-w",
+"sku": "ARG-0107",
+"name": "Burberry Old W",
+"rawName": "BURBERRY OLD W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "burberry-weekend-w",
+"sku": "ARG-0108",
+"name": "Burberry Weekend W",
+"rawName": "BURBERRY WEEKEND W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bvlgari-aqua",
+"sku": "ARG-0109",
+"name": "Bvlgari Aqua",
+"rawName": "BVLGARI AQUA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bvlgari-extreme-men",
+"sku": "ARG-0110",
+"name": "Bvlgari Extreme Men",
+"rawName": "BVLGARI EXTREME MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bvlgari-femme",
+"sku": "ARG-0111",
+"name": "Bvlgari Femme",
+"rawName": "BVLGARI FEMME",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bvlgari-jasmin",
+"sku": "ARG-0112",
+"name": "Bvlgari Jasmin",
+"rawName": "BVLGARI JASMIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bvlgari-le-gemme-tygar",
+"sku": "ARG-0113",
+"name": "Bvlgari Le Gemme Tygar",
+"rawName": "BVLGARI LE GEMME TYGAR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "bvlgari-omnia-coral",
+"sku": "ARG-0114",
+"name": "Bvlgari Omnia Coral",
+"rawName": "BVLGARI OMNIA CORAL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cairo-penhaligon-s",
+"sku": "ARG-0115",
+"name": "Cairo Penhaligon's",
+"rawName": "CAIRO PENHALIGON'S",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cardamom",
+"sku": "ARG-0116",
+"name": "Cardamom",
+"rawName": "CARDAMOM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cartier-declaration",
+"sku": "ARG-0117",
+"name": "Cartier Declaration",
+"rawName": "CARTIER DECLARATION",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "carved-oud-thameen",
+"sku": "ARG-0118",
+"name": "Carved Oud Thameen",
+"rawName": "CARVED OUD THAMEEN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "c-for-men-clive-christian",
+"sku": "ARG-0119",
+"name": "C For Men Clive Christian",
+"rawName": "C FOR MEN CLIVE CHRISTIAN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "c-for-women-cl-christian",
+"sku": "ARG-0120",
+"name": "C For Women-CL.Christian",
+"rawName": "C FOR WOMEN-CL.CHRISTIAN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "champagne-ysl",
+"sku": "ARG-0121",
+"name": "Champagne YSL",
+"rawName": "CHAMPAGNE YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "champion-davidoff",
+"sku": "ARG-0122",
+"name": "Champion Davidoff",
+"rawName": "CHAMPION DAVIDOFF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chance-eau-tendre",
+"sku": "ARG-0123",
+"name": "Chance Eau Tendre",
+"rawName": "CHANCE EAU TENDRE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chanel-chance",
+"sku": "ARG-0124",
+"name": "Chanel Chance",
+"rawName": "CHANEL CHANCE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chanel-coromandel",
+"sku": "ARG-0125",
+"name": "Chanel Coromandel",
+"rawName": "CHANEL COROMANDEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chanel-no-5",
+"sku": "ARG-0126",
+"name": "Chanel No.5",
+"rawName": "CHANEL NO.5",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chloe",
+"sku": "ARG-0127",
+"name": "Chloe",
+"rawName": "CHLOE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ch-men",
+"sku": "ARG-0128",
+"name": "CH Men",
+"rawName": "CH MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ch-men-prive",
+"sku": "ARG-0129",
+"name": "CH Men Prive",
+"rawName": "CH MEN PRIVE",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chocolate",
+"sku": "ARG-0130",
+"name": "Chocolate",
+"rawName": "CHOCOLATE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ch-sports-men",
+"sku": "ARG-0131",
+"name": "CH Sports Men",
+"rawName": "CH SPORTS MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ch-women",
+"sku": "ARG-0132",
+"name": "CH Women",
+"rawName": "CH WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chypre-vanille-jazeera",
+"sku": "ARG-0133",
+"name": "Chypre Vanille Jazeera",
+"rawName": "CHYPRE VANILLE JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cigar",
+"sku": "ARG-0134",
+"name": "Cigar",
+"rawName": "CIGAR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cinema",
+"sku": "ARG-0135",
+"name": "Cinema",
+"rawName": "CINEMA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ck-beauty",
+"sku": "ARG-0136",
+"name": "CK Beauty",
+"rawName": "CK BEAUTY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ck-one-men",
+"sku": "ARG-0137",
+"name": "CK One Men",
+"rawName": "CK ONE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ck-shock-m",
+"sku": "ARG-0138",
+"name": "CK Shock M",
+"rawName": "CK SHOCK M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ck-shock-w",
+"sku": "ARG-0139",
+"name": "CK Shock W",
+"rawName": "CK SHOCK W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "classic-rose-jazeera",
+"sku": "ARG-0140",
+"name": "Classic Rose Jazeera",
+"rawName": "CLASSIC ROSE JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "coco-chanel",
+"sku": "ARG-0141",
+"name": "Coco Chanel",
+"rawName": "COCO CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "coco-mademoiselle",
+"sku": "ARG-0142",
+"name": "Coco Mademoiselle",
+"rawName": "COCO MADEMOISELLE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "coco-noir-chanel",
+"sku": "ARG-0143",
+"name": "Coco Noir Chanel",
+"rawName": "COCO NOIR CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "coco-vanille-mancera",
+"sku": "ARG-0144",
+"name": "Coco Vanille Mancera",
+"rawName": "COCO VANILLE MANCERA_x000D_",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "colonia-leather",
+"sku": "ARG-0145",
+"name": "Colonia Leather",
+"rawName": "COLONIA LEATHER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "complex",
+"sku": "ARG-0146",
+"name": "Complex",
+"rawName": "COMPLEX",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cool-water-men",
+"sku": "ARG-0147",
+"name": "Cool Water Men",
+"rawName": "COOL WATER MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cool-water-w",
+"sku": "ARG-0148",
+"name": "Cool Water W",
+"rawName": "COOL WATER W",
+"collection": "argeville",
+"gender": "women",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "creed-aventus-m",
+"sku": "ARG-0149",
+"name": "Creed Aventus-M",
+"rawName": "CREED AVENTUS-M",
+"collection": "argeville",
+"gender": "men",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "creed-black",
+"sku": "ARG-0150",
+"name": "Creed Black",
+"rawName": "CREED BLACK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "creed-gold",
+"sku": "ARG-0151",
+"name": "Creed Gold",
+"rawName": "CREED GOLD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "creed-silver",
+"sku": "ARG-0152",
+"name": "Creed Silver",
+"rawName": "CREED SILVER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "creed-white",
+"sku": "ARG-0153",
+"name": "Creed White",
+"rawName": "CREED WHITE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cuir-intense-guerlain",
+"sku": "ARG-0154",
+"name": "Cuir Intense Guerlain",
+"rawName": "CUIR INTENSE GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dahlia-divin-givenchy",
+"sku": "ARG-0155",
+"name": "Dahlia Divin Givenchy",
+"rawName": "DAHLIA DIVIN GIVENCHY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "daisy-dream-m-j",
+"sku": "ARG-0156",
+"name": "Daisy Dream M.J",
+"rawName": "DAISY DREAM M.J",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "daisy-kiss-jacobs",
+"sku": "ARG-0157",
+"name": "Daisy Kiss Jacobs",
+"rawName": "DAISY KISS JACOBS",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dawn-meillure",
+"sku": "ARG-0158",
+"name": "Dawn Meillure",
+"rawName": "DAWN MEILLURE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "delina-exclusif-marly",
+"sku": "ARG-0159",
+"name": "Delina Exclusif Marly",
+"rawName": "DELINA EXCLUSIF MARLY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "delina-parfums-marly",
+"sku": "ARG-0160",
+"name": "Delina Parfums Marly",
+"rawName": "DELINA PARFUMS MARLY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "design-n-motion-bugatti",
+"sku": "ARG-0161",
+"name": "Design N Motion-Bugatti",
+"rawName": "DESIGN N MOTION-BUGATTI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-femme-intense",
+"sku": "ARG-0162",
+"name": "D&g Femme Intense",
+"rawName": "D&G FEMME INTENSE",
+"collection": "argeville",
+"gender": "women",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-light-blue-men",
+"sku": "ARG-0163",
+"name": "D&g Light Blue-Men",
+"rawName": "D&G LIGHT BLUE-MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-light-blue-w",
+"sku": "ARG-0164",
+"name": "D&g Light Blue W",
+"rawName": "D&G LIGHT BLUE W",
+"collection": "argeville",
+"gender": "women",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-the-one-intense",
+"sku": "ARG-0165",
+"name": "D & G The One Intense",
+"rawName": "D & G THE ONE INTENSE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-the-one-men",
+"sku": "ARG-0166",
+"name": "D&g The One Men",
+"rawName": "D&G THE ONE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-the-one-royal-night",
+"sku": "ARG-0167",
+"name": "D&g The One Royal Night",
+"rawName": "D&G THE ONE ROYAL NIGHT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-the-one-women",
+"sku": "ARG-0168",
+"name": "D&g The One Women",
+"rawName": "D&G THE ONE WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-the-only-one-w",
+"sku": "ARG-0169",
+"name": "D&g The Only One-W",
+"rawName": "D&G THE  ONLY ONE-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dior-addict",
+"sku": "ARG-0170",
+"name": "Dior Addict",
+"rawName": "DIOR ADDICT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dior-homme",
+"sku": "ARG-0171",
+"name": "Dior Homme",
+"rawName": "DIOR HOMME",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dior-homme-intense",
+"sku": "ARG-0172",
+"name": "Dior Homme Intense",
+"rawName": "DIOR HOMME INTENSE",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dior-homme-sport",
+"sku": "ARG-0173",
+"name": "Dior Homme Sport",
+"rawName": "DIOR HOMME SPORT",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "donna-valentino",
+"sku": "ARG-0174",
+"name": "Donna Valentino",
+"rawName": "DONNA VALENTINO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dragon-cartier",
+"sku": "ARG-0175",
+"name": "Dragon Cartier",
+"rawName": "DRAGON CARTIER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "drakkar-noir",
+"sku": "ARG-0176",
+"name": "Drakkar Noir",
+"rawName": "DRAKKAR NOIR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-blue",
+"sku": "ARG-0177",
+"name": "Dunhill Blue()",
+"rawName": "DUNHILL BLUE(*)",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-classic",
+"sku": "ARG-0178",
+"name": "Dunhill Classic",
+"rawName": "DUNHILL CLASSIC",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-custom",
+"sku": "ARG-0179",
+"name": "Dunhill Custom",
+"rawName": "DUNHILL CUSTOM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-desire-black",
+"sku": "ARG-0180",
+"name": "Dunhill Desire Black",
+"rawName": "DUNHILL DESIRE BLACK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-desire-m",
+"sku": "ARG-0181",
+"name": "Dunhill Desire-M",
+"rawName": "DUNHILL DESIRE-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-desire-extreme",
+"sku": "ARG-0182",
+"name": "Dunhill Desire Extreme",
+"rawName": "DUNHILL DESIRE EXTREME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-fresh",
+"sku": "ARG-0183",
+"name": "Dunhill Fresh",
+"rawName": "DUNHILL FRESH",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-icon",
+"sku": "ARG-0184",
+"name": "Dunhill Icon",
+"rawName": "DUNHILL ICON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-icon-absolute",
+"sku": "ARG-0185",
+"name": "Dunhill Icon Absolute",
+"rawName": "DUNHILL ICON ABSOLUTE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-icon-elite",
+"sku": "ARG-0186",
+"name": "Dunhill Icon Elite",
+"rawName": "DUNHILL ICON ELITE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dunhill-london-m",
+"sku": "ARG-0187",
+"name": "Dunhill London M",
+"rawName": "DUNHILL LONDON M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dylan-blue-versace-m",
+"sku": "ARG-0188",
+"name": "Dylan Blue Versace-M",
+"rawName": "DYLAN BLUE VERSACE-M",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dylan-turquoise-versace",
+"sku": "ARG-0189",
+"name": "Dylan Turquoise Versace",
+"rawName": "DYLAN TURQUOISE VERSACE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eau-de-mar-hermes",
+"sku": "ARG-0190",
+"name": "Eau De Mar.Hermes",
+"rawName": "EAU DE MAR.HERMES",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eau-de-moiselle-givenchy",
+"sku": "ARG-0191",
+"name": "Eau De Moiselle Givenchy",
+"rawName": "EAU DE MOISELLE GIVENCHY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eau-de-soir-sisley",
+"sku": "ARG-0192",
+"name": "Eau De Soir Sisley",
+"rawName": "EAU DE SOIR SISLEY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eclat-lanvin",
+"sku": "ARG-0193",
+"name": "Eclat Lanvin",
+"rawName": "ECLAT LANVIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eden",
+"sku": "ARG-0194",
+"name": "Eden",
+"rawName": "EDEN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "elie-saab",
+"sku": "ARG-0195",
+"name": "Elie Saab",
+"rawName": "ELIE SAAB",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eleventh-hour-byredo",
+"sku": "ARG-0196",
+"name": "Eleventh Hour Byredo",
+"rawName": "ELEVENTH HOUR BYREDO_x000D_",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "elie-saab-le-parfume-in-white",
+"sku": "ARG-0197",
+"name": "Elie Saab Le Parfume In White",
+"rawName": "ELIE SAAB LE PARFUME IN WHITE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "elle-ysl",
+"sku": "ARG-0198",
+"name": "Elle-YSL",
+"rawName": "ELLE-YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "elysium-roja",
+"sku": "ARG-0199",
+"name": "Elysium Roja",
+"rawName": "ELYSIUM ROJA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "emarati-musk-h-al-oud",
+"sku": "ARG-0200",
+"name": "Emarati Musk-H.Al Oud",
+"rawName": "EMARATI MUSK-H.AL OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "encens-mithique-guer",
+"sku": "ARG-0201",
+"name": "Encens Mithique-Guer.",
+"rawName": "ENCENS MITHIQUE-GUER.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "english-pear-freesia-jm",
+"sku": "ARG-0202",
+"name": "English Pear & Freesia-JM",
+"rawName": "ENGLISH PEAR & FREESIA-JM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "enigma-roja",
+"sku": "ARG-0203",
+"name": "Enigma Roja",
+"rawName": "ENIGMA ROJA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "epic-amouage-men",
+"sku": "ARG-0204",
+"name": "Epic Amouage Men",
+"rawName": "EPIC AMOUAGE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "epic-amouage-w",
+"sku": "ARG-0205",
+"name": "Epic Amouage-W",
+"rawName": "EPIC AMOUAGE-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "erba-pura-sospiro",
+"sku": "ARG-0206",
+"name": "Erba Pura Sospiro",
+"rawName": "ERBA PURA SOSPIRO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-cherry-in-the-air",
+"sku": "ARG-0207",
+"name": "Escada Cherry In The Air",
+"rawName": "ESCADA CHERRY IN THE AIR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-collection",
+"sku": "ARG-0208",
+"name": "Escada Collection",
+"rawName": "ESCADA COLLECTION",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-island-kiss",
+"sku": "ARG-0209",
+"name": "Escada Island Kiss",
+"rawName": "ESCADA ISLAND KISS",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-magnetism",
+"sku": "ARG-0210",
+"name": "Escada Magnetism",
+"rawName": "ESCADA MAGNETISM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-moon",
+"sku": "ARG-0211",
+"name": "Escada Moon",
+"rawName": "ESCADA MOON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-ocean",
+"sku": "ARG-0212",
+"name": "Escada Ocean",
+"rawName": "ESCADA OCEAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-sunset-heat",
+"sku": "ARG-0213",
+"name": "Escada Sunset Heat",
+"rawName": "ESCADA SUNSET HEAT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escada-taj-sunset",
+"sku": "ARG-0214",
+"name": "Escada Taj Sunset",
+"rawName": "ESCADA TAJ SUNSET",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escape-man",
+"sku": "ARG-0215",
+"name": "Escape Man",
+"rawName": "ESCAPE MAN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escape-women",
+"sku": "ARG-0216",
+"name": "Escape Women",
+"rawName": "ESCAPE WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eternal-oud-kilian",
+"sku": "ARG-0217",
+"name": "Eternal Oud Kilian",
+"rawName": "ETERNAL OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eternity-men",
+"sku": "ARG-0218",
+"name": "Eternity Men",
+"rawName": "ETERNITY MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "eternity-women",
+"sku": "ARG-0219",
+"name": "Eternity Women",
+"rawName": "ETERNITY WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "etoile-filante-louis-vuitton",
+"sku": "ARG-0220",
+"name": "Etoile Filante Louis Vuitton",
+"rawName": "ETOILE FILANTE LOUIS VUITTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "euphoria-intense-men",
+"sku": "ARG-0221",
+"name": "Euphoria Intense-Men",
+"rawName": "EUPHORIA INTENSE-MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "euphoria-men",
+"sku": "ARG-0222",
+"name": "Euphoria Men",
+"rawName": "EUPHORIA MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "euphoria-women",
+"sku": "ARG-0223",
+"name": "Euphoria Women",
+"rawName": "EUPHORIA WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "explorer-mont-blanc",
+"sku": "ARG-0224",
+"name": "Explorer Mont Blanc",
+"rawName": "EXPLORER MONT BLANC",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "extreme-oud-kilian",
+"sku": "ARG-0225",
+"name": "Extreme Oud Kilian",
+"rawName": "EXTREME OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fabulous-atyab-al-sheek",
+"sku": "ARG-0226",
+"name": "Fabulous Atyab Al Sheek",
+"rawName": "FABULOUS ATYAB AL SHEEK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fahrenheit",
+"sku": "ARG-0227",
+"name": "Fahrenheit",
+"rawName": "FAHRENHEIT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "falker-bvlgari",
+"sku": "ARG-0228",
+"name": "Falker Bvlgari",
+"rawName": "FALKER BVLGARI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fandi-fendi-men",
+"sku": "ARG-0229",
+"name": "Fandi Fendi Men",
+"rawName": "FANDI FENDI MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fandi-fendi-w",
+"sku": "ARG-0230",
+"name": "Fandi Fendi W",
+"rawName": "FANDI FENDI W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fantasy",
+"sku": "ARG-0231",
+"name": "Fantasy",
+"rawName": "FANTASY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fendi-men",
+"sku": "ARG-0232",
+"name": "Fendi Men",
+"rawName": "FENDI MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ferrari-black",
+"sku": "ARG-0233",
+"name": "Ferrari Black",
+"rawName": "FERRARI BLACK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ferrari-red",
+"sku": "ARG-0234",
+"name": "Ferrari Red",
+"rawName": "FERRARI RED",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fetish-roja",
+"sku": "ARG-0235",
+"name": "Fetish Roja",
+"rawName": "FETISH ROJA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "feve-delicieuse-dior",
+"sku": "ARG-0236",
+"name": "Feve Delicieuse Dior",
+"rawName": "FEVE DELICIEUSE DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fierce-cologne-a-f",
+"sku": "ARG-0237",
+"name": "Fierce Cologne-A&f",
+"rawName": "FIERCE COLOGNE-A&F",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fleur-de-portofino-t-f",
+"sku": "ARG-0238",
+"name": "Fleur De Portofino-T.F",
+"rawName": "FLEUR DE PORTOFINO-T.F",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fleur-narcotique",
+"sku": "ARG-0239",
+"name": "Fleur Narcotique",
+"rawName": "FLEUR NARCOTIQUE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "flower-bomb",
+"sku": "ARG-0240",
+"name": "Flower Bomb",
+"rawName": "FLOWER BOMB",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "flower-kenzo",
+"sku": "ARG-0241",
+"name": "Flower Kenzo",
+"rawName": "FLOWER KENZO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gabrielle-chanel",
+"sku": "ARG-0242",
+"name": "Gabrielle Chanel",
+"rawName": "GABRIELLE CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gentleman-only-absolute",
+"sku": "ARG-0243",
+"name": "Gentleman Only Absolute",
+"rawName": "GENTLEMAN ONLY ABSOLUTE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gentlemen-only-intense",
+"sku": "ARG-0244",
+"name": "Gentlemen Only Intense",
+"rawName": "GENTLEMEN ONLY INTENSE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "girl-of-now-elle-saab",
+"sku": "ARG-0245",
+"name": "Girl Of Now Elle Saab",
+"rawName": "GIRL OF NOW ELLE SAAB",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "givenchy-pour-homme-m",
+"sku": "ARG-0246",
+"name": "Givenchy Pour Homme M",
+"rawName": "GIVENCHY POUR HOMME M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "golden-dust",
+"sku": "ARG-0247",
+"name": "Golden Dust",
+"rawName": "GOLDEN DUST",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gold-oud-kilian",
+"sku": "ARG-0248",
+"name": "Gold Oud Kilian",
+"rawName": "GOLD OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "good-girl-ch",
+"sku": "ARG-0249",
+"name": "Good Girl-CH",
+"rawName": "GOOD GIRL-CH",
+"collection": "argeville",
+"gender": "women",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "good-girl-gone-bad-kilian",
+"sku": "ARG-0250",
+"name": "Good Girl Gone Bad-Kilian",
+"rawName": "GOOD GIRL GONE BAD-KILIAN",
+"collection": "argeville",
+"gender": "women",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "grand-soir-kurkdjian",
+"sku": "ARG-0251",
+"name": "Grand Soir Kurkdjian",
+"rawName": "GRAND SOIR KURKDJIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "green-tea",
+"sku": "ARG-0252",
+"name": "Green Tea",
+"rawName": "GREEN TEA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": "green-mist.jpg",
+"signature": false
+},
+{
+"id": "gris-montaigne-dior",
+"sku": "ARG-0253",
+"name": "Gris Montaigne Dior",
+"rawName": "GRIS MONTAIGNE DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-by-gucci-w",
+"sku": "ARG-0254",
+"name": "Gucci By Gucci W",
+"rawName": "GUCCI BY GUCCI W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-by-gucci-w-argeville",
+"sku": "ARG-0255",
+"name": "Gucci By Gucci W",
+"rawName": "GUCCI BY GUCCI W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-envy-me",
+"sku": "ARG-0256",
+"name": "Gucci Envy Me",
+"rawName": "GUCCI ENVY ME*",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-flora",
+"sku": "ARG-0257",
+"name": "Gucci Flora",
+"rawName": "GUCCI FLORA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-guilty-absolute-m",
+"sku": "ARG-0258",
+"name": "Gucci Guilty Absolute-M",
+"rawName": "GUCCI GUILTY ABSOLUTE-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-guilty-black-m",
+"sku": "ARG-0259",
+"name": "Gucci Guilty Black-M",
+"rawName": "GUCCI GUILTY BLACK-M",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-guilty-intense-pour-femme",
+"sku": "ARG-0260",
+"name": "Gucci Guilty Intense Pour Femme",
+"rawName": "GUCCI GUILTY INTENSE POUR FEMME",
+"collection": "argeville",
+"gender": "women",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-guilty-m",
+"sku": "ARG-0261",
+"name": "Gucci Guilty-M",
+"rawName": "GUCCI GUILTY-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-guilty-oud",
+"sku": "ARG-0262",
+"name": "Gucci Guilty Oud",
+"rawName": "GUCCI GUILTY OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-guilty-women",
+"sku": "ARG-0263",
+"name": "Gucci Guilty Women",
+"rawName": "GUCCI GUILTY WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-intense-oud",
+"sku": "ARG-0264",
+"name": "Gucci Intense Oud",
+"rawName": "GUCCI INTENSE OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-oud",
+"sku": "ARG-0265",
+"name": "Gucci Oud",
+"rawName": "GUCCI OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-pour-homme",
+"sku": "ARG-0266",
+"name": "Gucci Pour Homme",
+"rawName": "GUCCI POUR HOMME",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gucci-rush-women",
+"sku": "ARG-0267",
+"name": "Gucci Rush Women",
+"rawName": "GUCCI RUSH WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "guess-m",
+"sku": "ARG-0268",
+"name": "Guess M",
+"rawName": "GUESS M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "guess-marciano-w",
+"sku": "ARG-0269",
+"name": "Guess Marciano-W",
+"rawName": "GUESS MARCIANO-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "guess-seductive",
+"sku": "ARG-0270",
+"name": "Guess Seductive",
+"rawName": "GUESS SEDUCTIVE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "guess-women",
+"sku": "ARG-0271",
+"name": "Guess Women",
+"rawName": "GUESS WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "halfeti-leather-penhaligon-s",
+"sku": "ARG-0272",
+"name": "Halfeti Leather Penhaligon's",
+"rawName": "HALFETI LEATHER PENHALIGON'S",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hanuman-boadicea",
+"sku": "ARG-0273",
+"name": "Hanuman Boadicea",
+"rawName": "HANUMAN BOADICEA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "happy-clinique-m",
+"sku": "ARG-0274",
+"name": "Happy Clinique M",
+"rawName": "HAPPY CLINIQUE M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "happy-clinique-w",
+"sku": "ARG-0275",
+"name": "Happy Clinique-W",
+"rawName": "HAPPY CLINIQUE-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "happy-spirit-chopard",
+"sku": "ARG-0276",
+"name": "Happy Spirit Chopard",
+"rawName": "HAPPY SPIRIT CHOPARD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "haroof",
+"sku": "ARG-0277",
+"name": "Haroof",
+"rawName": "HAROOF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "her-burberry",
+"sku": "ARG-0278",
+"name": "Her Burberry",
+"rawName": "HER BURBERRY",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "herode-de-marly",
+"sku": "ARG-0279",
+"name": "Herode De Marly",
+"rawName": "HERODE DE MARLY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "herrera-men",
+"sku": "ARG-0280",
+"name": "Herrera Men",
+"rawName": "HERRERA MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "higher-energy-dior",
+"sku": "ARG-0281",
+"name": "Higher Energy Dior",
+"rawName": "HIGHER ENERGY DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "highy-frequency-initio-parfums",
+"sku": "ARG-0282",
+"name": "Highy Frequency Initio Parfums",
+"rawName": "HIGHY FREQUENCY INITIO PARFUMS",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "honey-crocus-jm",
+"sku": "ARG-0283",
+"name": "Honey&crocus JM",
+"rawName": "HONEY&CROCUS JM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "honour-amouage-men",
+"sku": "ARG-0284",
+"name": "Honour Amouage Men",
+"rawName": "HONOUR AMOUAGE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "honour-femme-amouage-w",
+"sku": "ARG-0285",
+"name": "Honour Femme Amouage W",
+"rawName": "HONOUR FEMME AMOUAGE W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hot-water-davidoff",
+"sku": "ARG-0286",
+"name": "Hot Water Davidoff",
+"rawName": "HOT WATER DAVIDOFF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hot-water-davidoff-argeville",
+"sku": "ARG-0287",
+"name": "Hot Water Davidoff",
+"rawName": "HOT WATER DAVIDOFF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hugo-boss-m",
+"sku": "ARG-0288",
+"name": "Hugo Boss M",
+"rawName": "HUGO BOSS M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hugo-energise-m",
+"sku": "ARG-0289",
+"name": "Hugo Energise M",
+"rawName": "HUGO ENERGISE M",
+"collection": "argeville",
+"gender": "men",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hypnotic-poison",
+"sku": "ARG-0290",
+"name": "Hypnotic Poison",
+"rawName": "HYPNOTIC POISON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "idole-lancome",
+"sku": "ARG-0291",
+"name": "Idole Lancome",
+"rawName": "IDOLE LANCOME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "idylle-guerlain-w",
+"sku": "ARG-0292",
+"name": "Idylle Guerlain-W",
+"rawName": "IDYLLE GUERLAIN-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "imperial-boadicea",
+"sku": "ARG-0293",
+"name": "Imperial Boadicea",
+"rawName": "IMPERIAL BOADICEA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "in-black-men-bvlgari",
+"sku": "ARG-0294",
+"name": "In Black Men Bvlgari",
+"rawName": "IN BLACK MEN BVLGARI",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "incanto-shine-ferregamo",
+"sku": "ARG-0295",
+"name": "Incanto Shine Ferregamo",
+"rawName": "INCANTO SHINE FERREGAMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "incense-oud-kilian",
+"sku": "ARG-0296",
+"name": "Incense Oud Kilian",
+"rawName": "INCENSE OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "incense-wood-ajmal",
+"sku": "ARG-0297",
+"name": "Incense Wood Ajmal",
+"rawName": "INCENSE WOOD AJMAL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "indian-sandal-wood-dunhill",
+"sku": "ARG-0298",
+"name": "Indian Sandal Wood Dunhill",
+"rawName": "INDIAN SANDAL WOOD DUNHILL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "in-love-with-you-armani",
+"sku": "ARG-0299",
+"name": "In Love With You Armani",
+"rawName": "IN LOVE WITH YOU ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "insolense-guerlain",
+"sku": "ARG-0300",
+"name": "Insolense Guerlain",
+"rawName": "INSOLENSE GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "interlude-amouage-men",
+"sku": "ARG-0301",
+"name": "Interlude Amouage Men",
+"rawName": "INTERLUDE AMOUAGE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "interlude-black-iris-man",
+"sku": "ARG-0302",
+"name": "Interlude Black Iris Man",
+"rawName": "INTERLUDE BLACK IRIS MAN",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "intricate-boadicea",
+"sku": "ARG-0303",
+"name": "Intricate Boadicea",
+"rawName": "INTRICATE BOADICEA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "invictus-paco-rabanne",
+"sku": "ARG-0304",
+"name": "Invictus-Paco Rabanne",
+"rawName": "INVICTUS-PACO RABANNE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "irish-leather-memo",
+"sku": "ARG-0305",
+"name": "Irish Leather Memo",
+"rawName": "IRISH LEATHER MEMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "irish-oud-memo",
+"sku": "ARG-0306",
+"name": "Irish Oud Memo",
+"rawName": "IRISH OUD MEMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "issey-miyake-men",
+"sku": "ARG-0307",
+"name": "Issey Miyake Men",
+"rawName": "ISSEY MIYAKE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "issey-miyake-women",
+"sku": "ARG-0308",
+"name": "Issey Miyake Women",
+"rawName": "ISSEY MIYAKE WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "italian-leather-memo",
+"sku": "ARG-0309",
+"name": "Italian Leather Memo",
+"rawName": "ITALIAN LEATHER MEMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "jadore",
+"sku": "ARG-0310",
+"name": "Jadore",
+"rawName": "JADORE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "jimmy-choo-men",
+"sku": "ARG-0311",
+"name": "Jimmy Choo Men",
+"rawName": "JIMMY CHOO MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "jimmy-choo-w",
+"sku": "ARG-0312",
+"name": "Jimmy Choo-W",
+"rawName": "JIMMY CHOO-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "jour-d-hermes",
+"sku": "ARG-0313",
+"name": "Jour D'hermes",
+"rawName": "JOUR D'HERMES",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "joy-dior",
+"sku": "ARG-0314",
+"name": "Joy Dior",
+"rawName": "JOY DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "joy-of-pink-lacoste",
+"sku": "ARG-0315",
+"name": "Joy Of Pink Lacoste",
+"rawName": "JOY OF PINK LACOSTE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "juicy-couture-men",
+"sku": "ARG-0316",
+"name": "Juicy Couture Men",
+"rawName": "JUICY COUTURE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "juicy-couture-w",
+"sku": "ARG-0317",
+"name": "Juicy Couture W",
+"rawName": "JUICY COUTURE W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "just-cavalli-w",
+"sku": "ARG-0318",
+"name": "Just Cavalli-W",
+"rawName": "JUST CAVALLI-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "kalemat",
+"sku": "ARG-0319",
+"name": "Kalemat",
+"rawName": "KALEMAT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "kim-kardishian",
+"sku": "ARG-0320",
+"name": "Kim Kardishian",
+"rawName": "KIM KARDISHIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "kiss-rihanna",
+"sku": "ARG-0321",
+"name": "Kiss Rihanna",
+"rawName": "KISS RIHANNA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "klakass-d-a-t",
+"sku": "ARG-0322",
+"name": "Klakass D.A.T",
+"rawName": "KLAKASS D.A.T",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "knowing-st-ldr",
+"sku": "ARG-0323",
+"name": "Knowing-ST.LDR",
+"rawName": "KNOWING-ST.LDR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "korus-silver-ysl",
+"sku": "ARG-0324",
+"name": "Korus Silver-YSL",
+"rawName": "KORUS SILVER-YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-envole-de-cartier",
+"sku": "ARG-0325",
+"name": "L'envole De Cartier",
+"rawName": "L'ENVOLE DE CARTIER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-a-la-rose-kurkdjian",
+"sku": "ARG-0326",
+"name": "L'homme A La Rose Kurkdjian",
+"rawName": "L'HOMME A LA ROSE KURKDJIAN",
+"collection": "argeville",
+"gender": "men",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-black-ysl",
+"sku": "ARG-0327",
+"name": "L'homme Black-YSL",
+"rawName": "L'HOMME BLACK-YSL",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-ideal-m",
+"sku": "ARG-0328",
+"name": "L'homme Ideal-M",
+"rawName": "L'HOMME IDEAL-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-intense-ysl",
+"sku": "ARG-0329",
+"name": "L'homme Intense-YSL",
+"rawName": "L'HOMME INTENSE-YSL",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-le-parfum-ysl",
+"sku": "ARG-0330",
+"name": "L'homme Le Parfum YSL",
+"rawName": "L'HOMME LE PARFUM YSL",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-prada",
+"sku": "ARG-0331",
+"name": "L'homme Prada",
+"rawName": "L'HOMME PRADA",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-homme-ysl",
+"sku": "ARG-0332",
+"name": "L'homme-YSL",
+"rawName": "L'HOMME-YSL",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-immensite-louis-vuitton",
+"sku": "ARG-0333",
+"name": "L'immensite Louis Vuitton",
+"rawName": "L'IMMENSITE LOUIS VUITTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-instant-magic-guerlain",
+"sku": "ARG-0334",
+"name": "L'instant Magic Guerlain",
+"rawName": "L'INSTANT MAGIC GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-interdit-givenchy",
+"sku": "ARG-0335",
+"name": "L'interdit Givenchy",
+"rawName": "L'INTERDIT  GIVENCHY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-ombre-des-marveilles-hermes",
+"sku": "ARG-0336",
+"name": "L'ombre Des Marveilles Hermes",
+"rawName": "L'OMBRE DES MARVEILLES HERMES",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lacoste-femme",
+"sku": "ARG-0337",
+"name": "Lacoste Femme",
+"rawName": "LACOSTE FEMME",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lacoste-touch-of-pink",
+"sku": "ARG-0338",
+"name": "Lacoste Touch Of Pink",
+"rawName": "LACOSTE TOUCH OF PINK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lady-million",
+"sku": "ARG-0339",
+"name": "Lady Million",
+"rawName": "LADY MILLION",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lacoste-white",
+"sku": "ARG-0340",
+"name": "Lacoste White",
+"rawName": "LACOSTE WHITE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lady-million-prive",
+"sku": "ARG-0341",
+"name": "Lady Million Prive",
+"rawName": "LADY MILLION PRIVE",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lalique-amethyst",
+"sku": "ARG-0342",
+"name": "Lalique Amethyst",
+"rawName": "LALIQUE AMETHYST",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lalique-encre-noir-m",
+"sku": "ARG-0343",
+"name": "Lalique Encre Noir-M",
+"rawName": "LALIQUE ENCRE NOIR-M",
+"collection": "argeville",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lalique-red",
+"sku": "ARG-0344",
+"name": "Lalique Red",
+"rawName": "LALIQUE RED",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lalique-white-m",
+"sku": "ARG-0345",
+"name": "Lalique White M",
+"rawName": "LALIQUE WHITE M",
+"collection": "argeville",
+"gender": "men",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "la-nuit-tresor-lancome",
+"sku": "ARG-0346",
+"name": "La Nuit Tresor Lancome",
+"rawName": "LA NUIT TRESOR LANCOME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "la-panthere-edp-cartier",
+"sku": "ARG-0347",
+"name": "La Panthere Edp Cartier",
+"rawName": "LA PANTHERE EDP CARTIER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "la-perla-jaime",
+"sku": "ARG-0348",
+"name": "La Perla Jaime",
+"rawName": "LA PERLA JAIME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lavender",
+"sku": "ARG-0349",
+"name": "Lavender",
+"rawName": "LAVENDER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "la-viest-belle-lancome",
+"sku": "ARG-0350",
+"name": "La Viest Belle-Lancome",
+"rawName": "LA VIEST BELLE-LANCOME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "layton-de-marly",
+"sku": "ARG-0351",
+"name": "Layton De Marly",
+"rawName": "LAYTON DE MARLY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "leather-oud-meillure",
+"sku": "ARG-0352",
+"name": "Leather Oud Meillure",
+"rawName": "LEATHER OUD MEILLURE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "le-frenchy-guerlain",
+"sku": "ARG-0353",
+"name": "Le Frenchy Guerlain",
+"rawName": "LE FRENCHY GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "legendary-atyab-al-sheek",
+"sku": "ARG-0354",
+"name": "Legendary Atyab Al Sheek",
+"rawName": "LEGENDARY ATYAB AL SHEEK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "legend-red-mont-blanc",
+"sku": "ARG-0355",
+"name": "Legend Red Mont Blanc",
+"rawName": "LEGEND RED MONT BLANC",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "le-lion-chanel",
+"sku": "ARG-0356",
+"name": "Le Lion Chanel",
+"rawName": "LE LION CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lemon",
+"sku": "ARG-0357",
+"name": "Lemon",
+"rawName": "LEMON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "libre-ysl",
+"sku": "ARG-0358",
+"name": "Libre-YSL",
+"rawName": "LIBRE-YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lost-cherry-tomford",
+"sku": "ARG-0359",
+"name": "Lost Cherry Tomford",
+"rawName": "LOST CHERRY TOMFORD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "live-luxe",
+"sku": "ARG-0360",
+"name": "Live Luxe",
+"rawName": "LIVE LUXE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "love-by-kilian",
+"sku": "ARG-0361",
+"name": "Love By Kilian",
+"rawName": "LOVE BY KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "love-chloe",
+"sku": "ARG-0362",
+"name": "Love Chloe",
+"rawName": "LOVE CHLOE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "love-story-chloe",
+"sku": "ARG-0363",
+"name": "Love Story Chloe",
+"rawName": "LOVE STORY CHLOE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "luxury-ma-alem",
+"sku": "ARG-0364",
+"name": "Luxury Ma'alem",
+"rawName": "LUXURY MA'ALEM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "m7-oud-ysl",
+"sku": "ARG-0365",
+"name": "M7 Oud YSL",
+"rawName": "M7 OUD YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mango-temptation",
+"sku": "ARG-0366",
+"name": "Mango Temptation",
+"rawName": "MANGO TEMPTATION",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "manifesto-ysl",
+"sku": "ARG-0367",
+"name": "Manifesto-YSL",
+"rawName": "MANIFESTO-YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "marfa-memo",
+"sku": "ARG-0368",
+"name": "Marfa Memo",
+"rawName": "MARFA MEMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "marshood-1",
+"sku": "ARG-0369",
+"name": "Marshood-1",
+"rawName": "MARSHOOD-1",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mashaer-oud-elite",
+"sku": "ARG-0370",
+"name": "Mashaer Oud Elite",
+"rawName": "MASHAER OUD ELITE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "matiere-noire-vuitton",
+"sku": "ARG-0371",
+"name": "Matiere Noire Vuitton",
+"rawName": "MATIERE NOIRE VUITTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "megamare-orto-parisi",
+"sku": "ARG-0372",
+"name": "Megamare Orto Parisi",
+"rawName": "MEGAMARE ORTO PARISI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "midnight-fantasy",
+"sku": "ARG-0373",
+"name": "Midnight Fantasy",
+"rawName": "MIDNIGHT FANTASY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "midnight-poison",
+"sku": "ARG-0374",
+"name": "Midnight Poison",
+"rawName": "MIDNIGHT POISON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mint",
+"sku": "ARG-0375",
+"name": "Mint",
+"rawName": "MINT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "miracle-lancome-w",
+"sku": "ARG-0376",
+"name": "Miracle Lancome-W",
+"rawName": "MIRACLE LANCOME-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "miss-dior-blooming-bouquet",
+"sku": "ARG-0377",
+"name": "Miss Dior Blooming Bouquet",
+"rawName": "MISS DIOR BLOOMING BOUQUET",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "miss-dior-cherie",
+"sku": "ARG-0378",
+"name": "Miss Dior Cherie",
+"rawName": "MISS DIOR CHERIE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mon-guerlain-w",
+"sku": "ARG-0379",
+"name": "Mon Guerlain-W",
+"rawName": "MON GUERLAIN-W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mon-paris-ysl",
+"sku": "ARG-0380",
+"name": "Mon Paris YSL",
+"rawName": "MON PARIS YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mont-blanc-emblem",
+"sku": "ARG-0381",
+"name": "Mont Blanc Emblem",
+"rawName": "MONT BLANC EMBLEM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mont-blanc-legend-m",
+"sku": "ARG-0382",
+"name": "Mont Blanc Legend-M",
+"rawName": "MONT BLANC LEGEND-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "moon-leather-memo",
+"sku": "ARG-0383",
+"name": "Moon Leather Memo",
+"rawName": "MOON LEATHER MEMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "moonlight-in-kilian",
+"sku": "ARG-0384",
+"name": "Moonlight In Kilian",
+"rawName": "MOONLIGHT IN KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "moonlight-patchouli-v-c",
+"sku": "ARG-0385",
+"name": "Moonlight Patchouli V/c",
+"rawName": "MOONLIGHT PATCHOULI V/C",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "moschino-fresh-couture",
+"sku": "ARG-0386",
+"name": "Moschino Fresh Couture",
+"rawName": "MOSCHINO FRESH COUTURE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mr-burberry",
+"sku": "ARG-0387",
+"name": "MR.Burberry",
+"rawName": "MR.BURBERRY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat-badar",
+"sku": "ARG-0388",
+"name": "Mukhallat Badar",
+"rawName": "MUKHALLAT BADAR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat-bakhoor",
+"sku": "ARG-0389",
+"name": "Mukhallat Bakhoor",
+"rawName": "MUKHALLAT BAKHOOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat-gold",
+"sku": "ARG-0390",
+"name": "Mukhallat Gold",
+"rawName": "MUKHALLAT GOLD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "musabbath",
+"sku": "ARG-0391",
+"name": "Musabbath",
+"rawName": "MUSABBATH",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat-oud",
+"sku": "ARG-0392",
+"name": "Mukhallat Oud",
+"rawName": "MUKHALLAT OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mushmoom",
+"sku": "ARG-0393",
+"name": "Mushmoom",
+"rawName": "MUSHMOOM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "musk-al-fransi",
+"sku": "ARG-0394",
+"name": "Musk Al Fransi",
+"rawName": "MUSK AL FRANSI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "musk-rose-jazeera",
+"sku": "ARG-0395",
+"name": "Musk Rose Jazeera",
+"rawName": "MUSK ROSE JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "must-de-cartier-men",
+"sku": "ARG-0396",
+"name": "Must De Cartier Men",
+"rawName": "MUST DE CARTIER MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "my-burberry-w",
+"sku": "ARG-0397",
+"name": "My Burberry W",
+"rawName": "MY BURBERRY W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "myrrh-tonka-jo-malone",
+"sku": "ARG-0398",
+"name": "Myrrh & Tonka Jo Malone",
+"rawName": "MYRRH & TONKA JO MALONE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mystery-tobacco-ch",
+"sku": "ARG-0399",
+"name": "Mystery Tobacco-CH",
+"rawName": "MYSTERY TOBACCO-CH",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "my-way-armani",
+"sku": "ARG-0400",
+"name": "My Way Armani",
+"rawName": "MY WAY ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "narciso-black",
+"sku": "ARG-0401",
+"name": "Narciso Black",
+"rawName": "NARCISO BLACK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "narciso-pink",
+"sku": "ARG-0402",
+"name": "Narciso Pink",
+"rawName": "NARCISO PINK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "narciso-poudree",
+"sku": "ARG-0403",
+"name": "Narciso Poudree",
+"rawName": "NARCISO POUDREE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "narciso-white-w",
+"sku": "ARG-0404",
+"name": "Narciso White W",
+"rawName": "NARCISO WHITE W",
+"collection": "argeville",
+"gender": "women",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "nectarine-blossom-honey-jo-malone",
+"sku": "ARG-0405",
+"name": "Nectarine Blossom & Honey-Jo Malone",
+"rawName": "NECTARINE BLOSSOM & HONEY-JO MALONE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "nassak-thameen",
+"sku": "ARG-0406",
+"name": "Nassak Thameen",
+"rawName": "NASSAK THAMEEN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "nemer-boadecia",
+"sku": "ARG-0407",
+"name": "Nemer-Boadecia",
+"rawName": "NEMER-BOADECIA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "new-york-oud-bond9",
+"sku": "ARG-0408",
+"name": "New York Oud-Bond9",
+"rawName": "NEW YORK OUD-BOND9",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "nina-ricci",
+"sku": "ARG-0409",
+"name": "Nina Ricci",
+"rawName": "NINA RICCI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "nishane",
+"sku": "ARG-0410",
+"name": "Nishane",
+"rawName": "NISHANE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": "nishane.jpg",
+"signature": false
+},
+{
+"id": "nomade-chloe",
+"sku": "ARG-0411",
+"name": "Nomade Chloe",
+"rawName": "NOMADE CHLOE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "nur-so-oud",
+"sku": "ARG-0412",
+"name": "Nur So Oud",
+"rawName": "NUR SO OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ocean-di-gioia-armani",
+"sku": "ARG-0413",
+"name": "Ocean Di Gioia Armani",
+"rawName": "OCEAN DI GIOIA ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "olympea-p-robanne",
+"sku": "ARG-0414",
+"name": "Olympea-P.Robanne",
+"rawName": "OLYMPEA-P.ROBANNE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ombre-leather-t-f",
+"sku": "ARG-0415",
+"name": "Ombre Leather-T.F",
+"rawName": "OMBRE LEATHER-T.F",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ombre-nomade-l-v",
+"sku": "ARG-0416",
+"name": "Ombre Nomade L.V.",
+"rawName": "OMBRE  NOMADE L.V.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "one-million",
+"sku": "ARG-0417",
+"name": "One Million",
+"rawName": "ONE MILLION",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "one-million-prive",
+"sku": "ARG-0418",
+"name": "One Million Prive",
+"rawName": "ONE MILLION PRIVE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "only-gentleman-giv",
+"sku": "ARG-0419",
+"name": "Only Gentleman GIV.",
+"rawName": "ONLY GENTLEMAN GIV.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "orage-louis-vuitton",
+"sku": "ARG-0420",
+"name": "Orage Louis Vuitton",
+"rawName": "ORAGE LOUIS VUITTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "orange",
+"sku": "ARG-0421",
+"name": "Orange",
+"rawName": "ORANGE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "orchid-vanille-v-c",
+"sku": "ARG-0422",
+"name": "Orchid Vanille V&c",
+"rawName": "ORCHID VANILLE V&C",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-abyad",
+"sku": "ARG-0423",
+"name": "Oud Abyad",
+"rawName": "OUD ABYAD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-bergamot-jm",
+"sku": "ARG-0424",
+"name": "Oud & Bergamot-JM",
+"rawName": "OUD & BERGAMOT-JM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-bouquet-lancome",
+"sku": "ARG-0425",
+"name": "Oud Bouquet Lancome",
+"rawName": "OUD BOUQUET LANCOME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-caf-meillure",
+"sku": "ARG-0426",
+"name": "Oud & Caf Meillure",
+"rawName": "OUD & CAF MEILLURE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-combody-1",
+"sku": "ARG-0427",
+"name": "Oud Combody-1",
+"rawName": "OUD COMBODY-1",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-couture-ch",
+"sku": "ARG-0428",
+"name": "Oud Couture-CH",
+"rawName": "OUD COUTURE-CH",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-essential-guerlain",
+"sku": "ARG-0429",
+"name": "Oud Essential Guerlain",
+"rawName": "OUD ESSENTIAL GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-flower-jazeera",
+"sku": "ARG-0430",
+"name": "Oud Flower Jazeera",
+"rawName": "OUD FLOWER JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-immortal-byredo",
+"sku": "ARG-0431",
+"name": "Oud Immortal Byredo",
+"rawName": "OUD IMMORTAL BYREDO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-ispahan-dior",
+"sku": "ARG-0432",
+"name": "Oud Ispahan Dior",
+"rawName": "OUD ISPAHAN DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-line-mancera",
+"sku": "ARG-0433",
+"name": "Oud Line Mancera",
+"rawName": "OUD LINE MANCERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-maliki-chopard",
+"sku": "ARG-0434",
+"name": "Oud Maliki Chopard",
+"rawName": "OUD MALIKI CHOPARD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-micallef",
+"sku": "ARG-0435",
+"name": "Oud Micallef",
+"rawName": "OUD MICALLEF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-night-jazeera",
+"sku": "ARG-0436",
+"name": "Oud Night Jazeera",
+"rawName": "OUD NIGHT JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-save-the-king-atkinsons",
+"sku": "ARG-0437",
+"name": "Oud Save The King Atkinsons",
+"rawName": "OUD SAVE THE KING ATKINSONS",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-save-the-queen-atkinsons",
+"sku": "ARG-0438",
+"name": "Oud Save The Queen Atkinsons",
+"rawName": "OUD SAVE THE QUEEN ATKINSONS",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-velvet-mood-kurkdjian",
+"sku": "ARG-0439",
+"name": "Oud Velvet Mood Kurkdjian",
+"rawName": "OUD VELVET MOOD KURKDJIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-wood-t-ford",
+"sku": "ARG-0440",
+"name": "Oud Wood T.Ford",
+"rawName": "OUD WOOD T.FORD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "paradiso-r-cavalli",
+"sku": "ARG-0441",
+"name": "Paradiso-R.Cavalli",
+"rawName": "PARADISO-R.CAVALLI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "paris-hilton",
+"sku": "ARG-0442",
+"name": "Paris Hilton",
+"rawName": "PARIS HILTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pasha-cartier",
+"sku": "ARG-0443",
+"name": "Pasha Cartier",
+"rawName": "PASHA CARTIER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pasha-edition-noire",
+"sku": "ARG-0444",
+"name": "Pasha Edition Noire",
+"rawName": "PASHA EDITION NOIRE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "patchouli-absolute-tomford",
+"sku": "ARG-0445",
+"name": "Patchouli Absolute Tomford",
+"rawName": "PATCHOULI ABSOLUTE TOMFORD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "peony-blush-suede-jo-malone",
+"sku": "ARG-0446",
+"name": "Peony & Blush Suede Jo Malone",
+"rawName": "PEONY & BLUSH SUEDE JO MALONE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pink-sugar",
+"sku": "ARG-0447",
+"name": "Pink Sugar",
+"rawName": "PINK SUGAR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "poison-dior",
+"sku": "ARG-0448",
+"name": "Poison Dior",
+"rawName": "POISON DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "polo-black",
+"sku": "ARG-0449",
+"name": "Polo Black",
+"rawName": "POLO BLACK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "polo-blue",
+"sku": "ARG-0450",
+"name": "Polo Blue",
+"rawName": "POLO BLUE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "polo-red",
+"sku": "ARG-0451",
+"name": "Polo Red",
+"rawName": "POLO RED",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "polo-sport",
+"sku": "ARG-0452",
+"name": "Polo Sport",
+"rawName": "POLO SPORT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "portrait-of-a-lady",
+"sku": "ARG-0453",
+"name": "Portrait Of A Lady",
+"rawName": "PORTRAIT OF A LADY",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "prada-candy",
+"sku": "ARG-0454",
+"name": "Prada Candy",
+"rawName": "PRADA CANDY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "prada-luna-rossa",
+"sku": "ARG-0455",
+"name": "Prada Luna Rossa",
+"rawName": "PRADA LUNA ROSSA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "prada-milano-m",
+"sku": "ARG-0456",
+"name": "Prada Milano M",
+"rawName": "PRADA MILANO M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "prada-women",
+"sku": "ARG-0457",
+"name": "Prada Women",
+"rawName": "PRADA WOMEN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "precious-oud-v-c",
+"sku": "ARG-0458",
+"name": "Precious Oud V.C",
+"rawName": "PRECIOUS OUD V.C",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pure-oud-kilian",
+"sku": "ARG-0459",
+"name": "Pure Oud Kilian",
+"rawName": "PURE OUD KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pure-poison",
+"sku": "ARG-0460",
+"name": "Pure Poison",
+"rawName": "PURE POISON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pure-xs-men",
+"sku": "ARG-0461",
+"name": "Pure XS Men",
+"rawName": "PURE XS MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ralph-love",
+"sku": "ARG-0462",
+"name": "Ralph Love",
+"rawName": "RALPH LOVE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "raspberry",
+"sku": "ARG-0463",
+"name": "Raspberry",
+"rawName": "RASPBERRY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "reb-l-fleur-rehanna",
+"sku": "ARG-0464",
+"name": "Reb'l Fleur-Rehanna",
+"rawName": "REB'L FLEUR-REHANNA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "red-tobacco-mancera",
+"sku": "ARG-0465",
+"name": "Red Tobacco Mancera",
+"rawName": "RED TOBACCO MANCERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "regent-leather-thameen",
+"sku": "ARG-0466",
+"name": "Regent Leather Thameen",
+"rawName": "REGENT LEATHER THAMEEN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "riri-by-rehana",
+"sku": "ARG-0467",
+"name": "Riri By Rehana",
+"rawName": "RIRI BY REHANA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "roberto-cavalli-new",
+"sku": "ARG-0468",
+"name": "Roberto Cavalli New",
+"rawName": "ROBERTO CAVALLI NEW",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "rolling-in-love-by-kilian",
+"sku": "ARG-0469",
+"name": "Rolling In Love By Kilian",
+"rawName": "ROLLING IN LOVE BY KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "roses-musk-jaz",
+"sku": "ARG-0470",
+"name": "Roses Musk Jaz.",
+"rawName": "ROSES MUSK JAZ.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "roses-vanilla",
+"sku": "ARG-0471",
+"name": "Roses Vanilla",
+"rawName": "ROSES VANILLA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "roses-vanilla-2",
+"sku": "ARG-0472",
+"name": "Roses Vanilla-2",
+"rawName": "ROSES VANILLA-2",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "santal-royal-guerlain",
+"sku": "ARG-0473",
+"name": "Santal Royal Guerlain",
+"rawName": "SANTAL ROYAL GUERLAIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sarandip-black",
+"sku": "ARG-0474",
+"name": "Sarandip Black",
+"rawName": "SARANDIP BLACK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sauvage-dior",
+"sku": "ARG-0475",
+"name": "Sauvage Dior",
+"rawName": "SAUVAGE DIOR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "scandal-by-night-gaultier",
+"sku": "ARG-0476",
+"name": "Scandal By Night Gaultier",
+"rawName": "SCANDAL BY NIGHT GAULTIER_x000D_",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "scandal-gaultier",
+"sku": "ARG-0477",
+"name": "Scandal Gaultier",
+"rawName": "SCANDAL GAULTIER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sculpture-arg",
+"sku": "ARG-0478",
+"name": "Sculpture(arg)",
+"rawName": "SCULPTURE(ARG)",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "shaikh-men",
+"sku": "ARG-0479",
+"name": "Shaikh Men",
+"rawName": "SHAIKH MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "shamama-amber",
+"sku": "ARG-0480",
+"name": "Shamama Amber",
+"rawName": "SHAMAMA AMBER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "shay-oud",
+"sku": "ARG-0481",
+"name": "Shay Oud",
+"rawName": "SHAY OUD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "shifaz-intense-brown",
+"sku": "ARG-0482",
+"name": "Shifaz Intense Brown",
+"rawName": "SHIFAZ INTENSE BROWN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "si-armani-intense",
+"sku": "ARG-0483",
+"name": "Si-Armani Intense",
+"rawName": "SI-ARMANI INTENSE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "silk-musk",
+"sku": "ARG-0484",
+"name": "Silk Musk",
+"rawName": "SILK MUSK",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "silver-scent",
+"sku": "ARG-0485",
+"name": "Silver Scent",
+"rawName": "SILVER SCENT",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "si-passione-armani",
+"sku": "ARG-0486",
+"name": "Si Passione Armani",
+"rawName": "SI PASSIONE ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "spice-bomb-v-r",
+"sku": "ARG-0487",
+"name": "Spice Bomb-V.R.",
+"rawName": "SPICE BOMB-V.R.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "star-musk-xerjoff",
+"sku": "ARG-0488",
+"name": "Star Musk Xerjoff",
+"rawName": "STAR MUSK XERJOFF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "starlight-wish-v-s",
+"sku": "ARG-0489",
+"name": "Starlight Wish V/s",
+"rawName": "STARLIGHT WISH V/S",
+"collection": "argeville",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "starry-nights-jazeera",
+"sku": "ARG-0490",
+"name": "Starry Nights Jazeera",
+"rawName": "STARRY NIGHTS JAZEERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "stella",
+"sku": "ARG-0491",
+"name": "Stella",
+"rawName": "STELLA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "straight-to-heaven-kilian",
+"sku": "ARG-0492",
+"name": "Straight To Heaven Kilian",
+"rawName": "STRAIGHT TO HEAVEN KILIAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "stronger-with-you-armani",
+"sku": "ARG-0493",
+"name": "Stronger With You Armani",
+"rawName": "STRONGER WITH YOU ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "stronger-with-you-intensely",
+"sku": "ARG-0494",
+"name": "Stronger With You Intensely",
+"rawName": "STRONGER WITH YOU INTENSELY",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sultan",
+"sku": "ARG-0495",
+"name": "Sultan",
+"rawName": "SULTAN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sundazed-byredo",
+"sku": "ARG-0496",
+"name": "Sundazed Byredo",
+"rawName": "SUNDAZED BYREDO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sun-song-l-vuitton",
+"sku": "ARG-0497",
+"name": "Sun Song L.Vuitton",
+"rawName": "SUN SONG L.VUITTON",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "super-cedar-byredo",
+"sku": "ARG-0498",
+"name": "Super Cedar Byredo",
+"rawName": "SUPER CEDAR BYREDO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "supreme-bouquet-ysl",
+"sku": "ARG-0499",
+"name": "Supreme Bouquet-YSL",
+"rawName": "SUPREME BOUQUET-YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sweet-dust",
+"sku": "ARG-0500",
+"name": "Sweet Dust",
+"rawName": "SWEET DUST",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sycomore-chanel",
+"sku": "ARG-0501",
+"name": "Sycomore Chanel",
+"rawName": "SYCOMORE CHANEL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "terre-de-hermes",
+"sku": "ARG-0502",
+"name": "Terre De Hermes",
+"rawName": "TERRE DE HERMES",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "terroni-orto-parisi",
+"sku": "ARG-0503",
+"name": "Terroni Orto Parisi",
+"rawName": "TERRONI ORTO PARISI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "the-game-davidoff",
+"sku": "ARG-0504",
+"name": "The Game-Davidoff",
+"rawName": "THE GAME-DAVIDOFF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "the-moon-fr-malle",
+"sku": "ARG-0505",
+"name": "The Moon-FR.Malle",
+"rawName": "THE MOON-FR.MALLE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "the-night-federic-malle",
+"sku": "ARG-0506",
+"name": "The Night Federic Malle",
+"rawName": "THE NIGHT FEDERIC MALLE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tobacco",
+"sku": "ARG-0507",
+"name": "Tobacco",
+"rawName": "TOBACCO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tobacco-oud-t-f",
+"sku": "ARG-0508",
+"name": "Tobacco Oud T.F",
+"rawName": "TOBACCO OUD T.F",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tommy-girl",
+"sku": "ARG-0509",
+"name": "Tommy Girl",
+"rawName": "TOMMY GIRL",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tommy-men",
+"sku": "ARG-0510",
+"name": "Tommy Men",
+"rawName": "TOMMY MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tresor-lancome",
+"sku": "ARG-0511",
+"name": "Tresor Lancome",
+"rawName": "TRESOR LANCOME",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tulip-d-a-t",
+"sku": "ARG-0512",
+"name": "Tulip D.A.T",
+"rawName": "TULIP D.A.T",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tuscan-leather-t-f",
+"sku": "ARG-0513",
+"name": "Tuscan Leather T.F",
+"rawName": "TUSCAN LEATHER T.F",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "tuxedo-ysl",
+"sku": "ARG-0514",
+"name": "Tuxedo YSL",
+"rawName": "TUXEDO YSL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "twilly-hermes",
+"sku": "ARG-0515",
+"name": "Twilly Hermes",
+"rawName": "TWILLY HERMES",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ultra-male-j-p-gaultier",
+"sku": "ARG-0516",
+"name": "Ultra Male J.P Gaultier",
+"rawName": "ULTRA MALE J.P GAULTIER",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "valentina-poudre",
+"sku": "ARG-0517",
+"name": "Valentina Poudre",
+"rawName": "VALENTINA POUDRE",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "valentino-uomo",
+"sku": "ARG-0518",
+"name": "Valentino Uomo",
+"rawName": "VALENTINO UOMO",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "vanilla",
+"sku": "ARG-0519",
+"name": "Vanilla",
+"rawName": "VANILLA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "vanille-fleur-micallef",
+"sku": "ARG-0520",
+"name": "Vanille Fleur Micallef",
+"rawName": "VANILLE FLEUR MICALLEF",
+"collection": "argeville",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "velvet-desert-oud-d-g",
+"sku": "ARG-0521",
+"name": "Velvet Desert Oud-D&g",
+"rawName": "VELVET DESERT OUD-D&G",
+"collection": "argeville",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "velvet-desire-d-g",
+"sku": "ARG-0522",
+"name": "Velvet Desire D&g",
+"rawName": "VELVET DESIRE D&G",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "velvet-orchid-t-ford",
+"sku": "ARG-0523",
+"name": "Velvet Orchid T.Ford",
+"rawName": "VELVET ORCHID T.FORD",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "velvet-patchouli-d-g",
+"sku": "ARG-0524",
+"name": "Velvet Patchouli D&g",
+"rawName": "VELVET PATCHOULI D&G",
+"collection": "argeville",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "velvet-rose-ma-alem",
+"sku": "ARG-0525",
+"name": "Velvet Rose Ma'alem",
+"rawName": "VELVET ROSE MA'ALEM",
+"collection": "argeville",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-bright-crystal",
+"sku": "ARG-0526",
+"name": "Versace Bright Crystal",
+"rawName": "VERSACE BRIGHT CRYSTAL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-crystal-noir",
+"sku": "ARG-0527",
+"name": "Versace Crystal Noir",
+"rawName": "VERSACE CRYSTAL NOIR",
+"collection": "argeville",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-eros-m",
+"sku": "ARG-0528",
+"name": "Versace Eros-M",
+"rawName": "VERSACE EROS-M",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-eros-w",
+"sku": "ARG-0529",
+"name": "Versace Eros W",
+"rawName": "VERSACE EROS W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-men",
+"sku": "ARG-0530",
+"name": "Versace Men",
+"rawName": "VERSACE MEN",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-new-w",
+"sku": "ARG-0531",
+"name": "Versace New W",
+"rawName": "VERSACE NEW W",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versace-pour-homme",
+"sku": "ARG-0532",
+"name": "Versace Pour Homme",
+"rawName": "VERSACE POUR HOMME",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "versai-d-a-t",
+"sku": "ARG-0533",
+"name": "Versai D.A.T",
+"rawName": "VERSAI D.A.T",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "vert-malachite-armani",
+"sku": "ARG-0534",
+"name": "Vert Malachite Armani",
+"rawName": "VERT MALACHITE ARMANI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "very-irresistable-giv",
+"sku": "ARG-0535",
+"name": "Very Irresistable GIV.",
+"rawName": "VERY IRRESISTABLE GIV.",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "very-sexy-now",
+"sku": "ARG-0536",
+"name": "Very Sexy Now",
+"rawName": "VERY SEXY NOW",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "very-sexy-red",
+"sku": "ARG-0537",
+"name": "Very Sexy Red",
+"rawName": "VERY SEXY RED",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ward-juri",
+"sku": "ARG-0538",
+"name": "Ward Juri",
+"rawName": "WARD JURI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ward-taifi",
+"sku": "ARG-0539",
+"name": "Ward Taifi",
+"rawName": "WARD TAIFI",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "west-side-bond-9",
+"sku": "ARG-0540",
+"name": "West Side Bond 9",
+"rawName": "WEST SIDE BOND 9",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "white-musk-thin",
+"sku": "ARG-0541",
+"name": "White Musk Thin",
+"rawName": "WHITE MUSK THIN",
+"collection": "argeville",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "wild-leather-mancera",
+"sku": "ARG-0542",
+"name": "Wild Leather Mancera",
+"rawName": "WILD LEATHER MANCERA",
+"collection": "argeville",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "wisal",
+"sku": "ARG-0543",
+"name": "Wisal",
+"rawName": "WISAL",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "x-for-men-cl-christ",
+"sku": "ARG-0544",
+"name": "X For Men-CL.Christ",
+"rawName": "X FOR MEN-CL.CHRIST",
+"collection": "argeville",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "x-for-women-clive-christian",
+"sku": "ARG-0545",
+"name": "X For Women Clive Christian",
+"rawName": "X FOR WOMEN CLIVE CHRISTIAN",
+"collection": "argeville",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "zafaf-d-a-t",
+"sku": "ARG-0546",
+"name": "Zafaf D.A.T",
+"rawName": "ZAFAF D.A.T",
+"collection": "argeville",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "2020-atyab-al-sheek",
+"sku": "LUZ-0001",
+"name": "2020-Atyab Al Sheek",
+"rawName": "2020-ATYAB AL SHEEK(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "alexandria-ii-xerjoff",
+"sku": "LUZ-0002",
+"name": "Alexandria II Xerjoff",
+"rawName": "ALEXANDRIA II XERJOFF-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "aaa-al-jazeera",
+"sku": "LUZ-0003",
+"name": "Aaa Al Jazeera",
+"rawName": "AAA AL JAZEERA(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "45-parklane-eter",
+"sku": "LUZ-0004",
+"name": "45 Parklane Eter",
+"rawName": "45 PARKLANE ETER-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "alkasir-gissah",
+"sku": "LUZ-0005",
+"name": "Alkasir Gissah",
+"rawName": "ALKASIR GISSAH-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "amber-oud-ma-alem",
+"sku": "LUZ-0006",
+"name": "Amber Oud Ma'alem",
+"rawName": "AMBER OUD MA'ALEM-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "attar-bakhoor",
+"sku": "LUZ-0007",
+"name": "Attar Bakhoor",
+"rawName": "ATTAR BAKHOOR-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "brillaint-meillure",
+"sku": "LUZ-0008",
+"name": "Brillaint Meillure",
+"rawName": "BRILLAINT MEILLURE-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "by-the-fireplace-maison",
+"sku": "LUZ-0009",
+"name": "By The Fireplace Maison",
+"rawName": "BY THE FIREPLACE MAISON-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "chameleon-eter",
+"sku": "LUZ-0010",
+"name": "Chameleon Eter",
+"rawName": "CHAMELEON ETER-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "classic-rose-dar-al-teeb",
+"sku": "LUZ-0011",
+"name": "Classic Rose Dar Al Teeb",
+"rawName": "CLASSIC ROSE DAR AL TEEB-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "damascus-musk-al-jazeera",
+"sku": "LUZ-0012",
+"name": "Damascus Musk Al Jazeera",
+"rawName": "DAMASCUS MUSK AL JAZEERA-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "damaskus-jazeera",
+"sku": "LUZ-0013",
+"name": "Damaskus Jazeera",
+"rawName": "DAMASKUS JAZEERA(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "donna-trussardi",
+"sku": "LUZ-0014",
+"name": "Donna Trussardi",
+"rawName": "DONNA TRUSSARDI(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dreaming-rose-eter",
+"sku": "LUZ-0015",
+"name": "Dreaming Rose Eter",
+"rawName": "DREAMING ROSE ETER-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "escentric-molecules-01",
+"sku": "LUZ-0016",
+"name": "Escentric Molecules 01",
+"rawName": "ESCENTRIC MOLECULES 01(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "french-kiss-guerlain",
+"sku": "LUZ-0017",
+"name": "French Kiss Guerlain",
+"rawName": "FRENCH KISS GUERLAIN(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ghyous",
+"sku": "LUZ-0018",
+"name": "Ghyous",
+"rawName": "GHYOUS-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hacivat-nishane",
+"sku": "LUZ-0019",
+"name": "Hacivat Nishane",
+"rawName": "HACIVAT NISHANE-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "halfeti-penhaligon-s",
+"sku": "LUZ-0020",
+"name": "Halfeti Penhaligon's",
+"rawName": "HALFETI PENHALIGON'S-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "hero-burberry",
+"sku": "LUZ-0021",
+"name": "Hero Burberry",
+"rawName": "HERO BURBERRY-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "himalaya-creed",
+"sku": "LUZ-0022",
+"name": "Himalaya Creed",
+"rawName": "HIMALAYA CREED(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "ikat-bleu-armani",
+"sku": "LUZ-0023",
+"name": "Ikat Bleu Armani",
+"rawName": "IKAT BLEU ARMANI LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "intense-cafe-jazeera",
+"sku": "LUZ-0024",
+"name": "Intense Cafe Jazeera",
+"rawName": "INTENSE CAFE JAZEERA(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "invictus-legend",
+"sku": "LUZ-0025",
+"name": "Invictus Legend",
+"rawName": "INVICTUS LEGEND(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "jazz-club-maison",
+"sku": "LUZ-0026",
+"name": "Jazz Club Maison",
+"rawName": "JAZZ CLUB MAISON-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": "jazz-club.jpg",
+"signature": false
+},
+{
+"id": "k-by-d-g",
+"sku": "LUZ-0027",
+"name": "K By D&g",
+"rawName": "K BY D&G-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "khashab-al-oud",
+"sku": "LUZ-0028",
+"name": "Khashab Al Oud",
+"rawName": "KHASHAB AL OUD(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-interdit-givenchy-luzi",
+"sku": "LUZ-0029",
+"name": "L' Interdit Givenchy",
+"rawName": "L' INTERDIT GIVENCHY(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lamar-gissah",
+"sku": "LUZ-0030",
+"name": "Lamar Gissah",
+"rawName": "LAMAR GISSAH-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "le-beau-j-p-gaultier",
+"sku": "LUZ-0031",
+"name": "Le Beau J.P.Gaultier",
+"rawName": "LE BEAU J.P.GAULTIER(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "libre-intense-ysl",
+"sku": "LUZ-0032",
+"name": "Libre Intense YSL",
+"rawName": "LIBRE INTENSE YSL-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "love-in-white-creed",
+"sku": "LUZ-0033",
+"name": "Love In White Creed",
+"rawName": "LOVE IN WHITE CREED-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "magic-al-jazeera",
+"sku": "LUZ-0034",
+"name": "Magic Al Jazeera",
+"rawName": "MAGIC AL JAZEERA(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "maknoon-asateer",
+"sku": "LUZ-0035",
+"name": "Maknoon Asateer",
+"rawName": "MAKNOON ASATEER-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "marshood-4",
+"sku": "LUZ-0036",
+"name": "Marshood 4",
+"rawName": "MARSHOOD 4-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "misk-al-khuzama",
+"sku": "LUZ-0037",
+"name": "Misk Al Khuzama",
+"rawName": "MISK AL KHUZAMA-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "misk-cambody",
+"sku": "LUZ-0038",
+"name": "Misk Cambody",
+"rawName": "MISK CAMBODY-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "montana",
+"sku": "LUZ-0039",
+"name": "Montana",
+"rawName": "MONTANA-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat",
+"sku": "LUZ-0040",
+"name": "Mukhallat",
+"rawName": "MUKHALLAT  LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "musk-rumman",
+"sku": "LUZ-0041",
+"name": "Musk Rumman",
+"rawName": "MUSK RUMMAN-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "old-bond-eter",
+"sku": "LUZ-0042",
+"name": "Old Bond Eter",
+"rawName": "OLD BOND ETER-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "onyx-al-jazeera",
+"sku": "LUZ-0043",
+"name": "Onyx Al Jazeera",
+"rawName": "ONYX AL JAZEERA-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "passport-paris-hilton",
+"sku": "LUZ-0044",
+"name": "Passport Paris Hilton",
+"rawName": "PASSPORT PARIS HILTON-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "percival-parfums-de-marly",
+"sku": "LUZ-0045",
+"name": "Percival Parfums De Marly",
+"rawName": "PERCIVAL PARFUMS DE MARLY-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "perfect-a-asheikh",
+"sku": "LUZ-0046",
+"name": "Perfect A.Asheikh",
+"rawName": "PERFECT A.ASHEIKH-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "remember-me-yellow",
+"sku": "LUZ-0047",
+"name": "Remember Me Yellow",
+"rawName": "REMEMBER ME YELLOW-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "rivi-re-thameen",
+"sku": "LUZ-0048",
+"name": "Rivière Thameen",
+"rawName": "RIVIÈRE THAMEEN(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "rose-d-arabie-armani",
+"sku": "LUZ-0049",
+"name": "Rose D'arabie Armani",
+"rawName": "ROSE D'ARABIE ARMANI(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "royal-sapphire-thameen",
+"sku": "LUZ-0050",
+"name": "Royal Sapphire-Thameen",
+"rawName": "ROYAL SAPPHIRE-THAMEEN(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "santal-33-le-labo",
+"sku": "LUZ-0051",
+"name": "Santal 33 Le Labo",
+"rawName": "SANTAL 33 LE LABO(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "scandal-pour-homme-gaultier",
+"sku": "LUZ-0052",
+"name": "Scandal Pour Homme Gaultier",
+"rawName": "SCANDAL POUR HOMME GAULTIER-LZ",
+"collection": "luzi",
+"gender": "men",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "shiala-dar-al-teeb",
+"sku": "LUZ-0053",
+"name": "Shiala Dar Al Teeb",
+"rawName": "SHIALA DAR AL TEEB-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "shilah-atyab-al-sheek",
+"sku": "LUZ-0054",
+"name": "Shilah Atyab Al Sheek",
+"rawName": "SHILAH ATYAB AL SHEEK-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "side-effect-initio-parfums",
+"sku": "LUZ-0055",
+"name": "Side Effect Initio Parfums",
+"rawName": "SIDE EFFECT INITIO PARFUMS(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "silver-ma-alem",
+"sku": "LUZ-0056",
+"name": "Silver Ma'alem",
+"rawName": "SILVER MA'ALEM-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "so-scandal-j-p-gaultier",
+"sku": "LUZ-0057",
+"name": "So Scandal J.P Gaultier",
+"rawName": "SO SCANDAL J.P GAULTIER-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "starry-night-jazeera",
+"sku": "LUZ-0058",
+"name": "Starry Night Jazeera",
+"rawName": "STARRY NIGHT JAZEERA(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "story-ma-alem",
+"sku": "LUZ-0059",
+"name": "Story Ma'alem",
+"rawName": "STORY MA'ALEM-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "style-al-jazeera",
+"sku": "LUZ-0060",
+"name": "Style Al Jazeera",
+"rawName": "STYLE AL JAZEERA-LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sweet-bakhoor",
+"sku": "LUZ-0061",
+"name": "Sweet Bakhoor",
+"rawName": "SWEET BAKHOOR LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "teint-de-neige-lorenzo-velloresi",
+"sku": "LUZ-0062",
+"name": "Teint De Neige Lorenzo Velloresi",
+"rawName": "TEINT DE NEIGE LORENZO VELLORESI(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "the-last-day-of-summer-gucci",
+"sku": "LUZ-0063",
+"name": "The Last Day Of Summer Gucci",
+"rawName": "THE LAST DAY OF SUMMER GUCCI(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "the-voice-of-snake-gucci",
+"sku": "LUZ-0064",
+"name": "The Voice Of Snake Gucci",
+"rawName": "THE VOICE OF SNAKE GUCCI(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "warde-d-a-t-lz",
+"sku": "LUZ-0065",
+"name": "Warde D.A.T.LZ",
+"rawName": "WARDE D.A.T.LZ",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "white-linen-estee-lauder",
+"sku": "LUZ-0066",
+"name": "White Linen Estee Lauder",
+"rawName": "WHITE LINEN ESTEE LAUDER(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "y-by-ysl",
+"sku": "LUZ-0067",
+"name": "Y By YSL",
+"rawName": "Y BY YSL(LZ)",
+"collection": "luzi",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "anais-anais",
+"sku": "SLZ-0001",
+"name": "Anais Anais",
+"rawName": "ANAIS ANAIS**(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "angel-falls-gissah",
+"sku": "SLZ-0002",
+"name": "Angel Falls Gissah",
+"rawName": "ANGEL FALLS GISSAH-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "sweet",
+"notes": [
+"Vanilla",
+"Praline",
+"Tonka bean"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "black-saray",
+"sku": "SLZ-0003",
+"name": "Black Saray",
+"rawName": "BLACK SARAY-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "boss-bottled-oud-saffron",
+"sku": "SLZ-0004",
+"name": "Boss Bottled Oud Saffron",
+"rawName": "BOSS BOTTLED OUD SAFFRON(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "cardomom",
+"sku": "SLZ-0005",
+"name": "Cardomom",
+"rawName": "CARDOMOM-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "creed-viking",
+"sku": "SLZ-0006",
+"name": "Creed Viking",
+"rawName": "CREED VIKING(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "d-g-the-one-mysterious-night-m",
+"sku": "SLZ-0007",
+"name": "D&g The One Mysterious Night-M",
+"rawName": "D&G THE ONE MYSTERIOUS NIGHT-M(TRK)",
+"collection": "seluz",
+"gender": "men",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "do-it-for-love-kilian",
+"sku": "SLZ-0008",
+"name": "Do It For Love Kilian",
+"rawName": "DO IT FOR LOVE KILIAN(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "dove",
+"sku": "SLZ-0009",
+"name": "Dove",
+"rawName": "DOVE(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fabulous-tomford",
+"sku": "SLZ-0010",
+"name": "Fabulous Tomford",
+"rawName": "FABULOUS TOMFORD(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "fantasy-saray",
+"sku": "SLZ-0011",
+"name": "Fantasy Saray",
+"rawName": "FANTASY SARAY-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gold-oud-mancera",
+"sku": "SLZ-0012",
+"name": "Gold Oud Mancera",
+"rawName": "GOLD OUD MANCERA(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "gris-dior",
+"sku": "SLZ-0013",
+"name": "Gris Dior",
+"rawName": "GRIS DIOR(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "keep-glazed-the-house-of-oud",
+"sku": "SLZ-0014",
+"name": "Keep Glazed The House Of Oud",
+"rawName": "KEEP GLAZED THE HOUSE OF OUD(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "l-interdit-edition-couture-givenchy",
+"sku": "SLZ-0015",
+"name": "L'interdit Edition Couture Givenchy",
+"rawName": "L'INTERDIT EDITION COUTURE GIVENCHY(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lady-million-fabulous",
+"sku": "SLZ-0016",
+"name": "Lady Million Fabulous",
+"rawName": "LADY MILLION FABULOUS-TRK",
+"collection": "seluz",
+"gender": "women",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lavender-seluz",
+"sku": "SLZ-0017",
+"name": "Lavender",
+"rawName": "LAVENDER(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "lemongrass",
+"sku": "SLZ-0018",
+"name": "Lemongrass",
+"rawName": "LEMONGRASS-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "love-vic-secret",
+"sku": "SLZ-0019",
+"name": "Love Vic.Secret",
+"rawName": "LOVE VIC.SECRET(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "luban-oil",
+"sku": "SLZ-0020",
+"name": "Luban Oil",
+"rawName": "LUBAN OIL-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "marshoud-5",
+"sku": "SLZ-0021",
+"name": "Marshoud 5",
+"rawName": "MARSHOUD 5-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "moroccan-leather-memo",
+"sku": "SLZ-0022",
+"name": "Moroccan Leather Memo",
+"rawName": "MOROCCAN LEATHER MEMO(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat-hamja",
+"sku": "SLZ-0023",
+"name": "Mukhallat Hamja",
+"rawName": "MUKHALLAT HAMJA-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "mukhallat-turabi",
+"sku": "SLZ-0024",
+"name": "Mukhallat Turabi",
+"rawName": "MUKHALLAT TURABI(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "musk-aroosah",
+"sku": "SLZ-0025",
+"name": "Musk Aroosah",
+"rawName": "MUSK AROOSAH(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "orchid-powder-jazeera",
+"sku": "SLZ-0026",
+"name": "Orchid Powder Jazeera",
+"rawName": "ORCHID POWDER JAZEERA(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "musk",
+"notes": [
+"White musk",
+"Powdery iris",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-for-greatness-init-parf",
+"sku": "SLZ-0027",
+"name": "Oud For Greatness-Init.Parf",
+"rawName": "OUD FOR GREATNESS-INIT.PARF(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "oud-satin-mood",
+"sku": "SLZ-0028",
+"name": "Oud Satin Mood",
+"rawName": "OUD SATIN MOOD(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": "oud-satin-mood.jpg",
+"signature": false
+},
+{
+"id": "paradise-found-roberto-cavalli",
+"sku": "SLZ-0029",
+"name": "Paradise Found Roberto Cavalli",
+"rawName": "PARADISE FOUND ROBERTO CAVALLI-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "precious-leather-rob-cavalli",
+"sku": "SLZ-0030",
+"name": "Precious Leather Rob.Cavalli",
+"rawName": "PRECIOUS LEATHER ROB.CAVALLI(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "leather",
+"notes": [
+"Leather",
+"Tobacco leaf",
+"Birch smoke"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "precious-oud-mancera",
+"sku": "SLZ-0031",
+"name": "Precious Oud Mancera",
+"rawName": "PRECIOUS OUD MANCERA(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "oud",
+"notes": [
+"Agarwood",
+"Saffron",
+"Rose"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "pride-ma-alem",
+"sku": "SLZ-0032",
+"name": "Pride Ma'alem",
+"rawName": "PRIDE MA'ALEM-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "rehan-patchouli",
+"sku": "SLZ-0033",
+"name": "Rehan Patchouli",
+"rawName": "REHAN PATCHOULI(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "woody",
+"notes": [
+"Sandalwood",
+"Vetiver",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "roberto-cavalli-florence",
+"sku": "SLZ-0034",
+"name": "Roberto Cavalli Florence",
+"rawName": "ROBERTO CAVALLI FLORENCE(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "sensual",
+"sku": "SLZ-0035",
+"name": "Sensual",
+"rawName": "SENSUAL(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "the-tragedy-of-lord-george",
+"sku": "SLZ-0036",
+"name": "The Tragedy Of Lord George",
+"rawName": "THE TRAGEDY OF LORD GEORGE(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "velvet-petals-shimmer-v-s",
+"sku": "SLZ-0037",
+"name": "Velvet Petals Shimmer-V.S",
+"rawName": "VELVET PETALS SHIMMER-V.S(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "very-sexy-orchid-v-s",
+"sku": "SLZ-0038",
+"name": "Very Sexy Orchid-V.S",
+"rawName": "VERY SEXY ORCHID-V.S-TRK",
+"collection": "seluz",
+"gender": "unisex",
+"family": "floral",
+"notes": [
+"Jasmine",
+"Rose",
+"Peony"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "virgin-island-water-creed",
+"sku": "SLZ-0039",
+"name": "Virgin Island Water Creed",
+"rawName": "VIRGIN ISLAND WATER CREED(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "fresh",
+"notes": [
+"Bergamot",
+"Marine accord",
+"Cedar"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "wanted-by-night-azzaro",
+"sku": "SLZ-0040",
+"name": "Wanted By Night Azzaro",
+"rawName": "WANTED BY NIGHT AZZARO(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "amber",
+"notes": [
+"Amber",
+"Labdanum",
+"Warm spice"
+],
+"image": null,
+"signature": false
+},
+{
+"id": "wild-python-mancera",
+"sku": "SLZ-0041",
+"name": "Wild Python Mancera",
+"rawName": "WILD PYTHON MANCERA(TRK)",
+"collection": "seluz",
+"gender": "unisex",
+"family": "classic",
+"notes": [
+"Bergamot",
+"Heart florals",
+"Soft woods"
+],
+"image": null,
+"signature": false
+}
+]

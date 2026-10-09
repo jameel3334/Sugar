@@ -1,0 +1,18 @@
+{
+  "name": "scentual-perfumes",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/*", "apps/*"],
+  "scripts": {
+    "dev": "npm run dev -w @scentual/web",
+    "dev:api": "npm run dev -w @scentual/api",
+    "build": "npm run build -w @scentual/web",
+    "typecheck": "tsc -p packages/core && npm run typecheck -w @scentual/web && npm run typecheck -w @scentual/api",
+    "test": "node --test packages/core/test/*.test.ts",
+    "catalog": "python3 scripts/import_catalog.py data/perfume_list.xlsx packages/core/src/data/catalog.json"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "typescript": "~5.8.3"
+  }
+}
